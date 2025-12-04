@@ -1,6 +1,7 @@
 # Quantum Hardware Systems
 Characterize quantum hardware on the planet
 
+
 | Company | Countries Where Systems Are Located | Max Public Qubits (Physical) | Modality | Scalability to QEC | Largest Depth of Circuit Run (Public) | Largest # of 2-Qubit Gates Run (Public) |
 |--------|--------------------------------------|-------------------------------|----------|---------------------|----------------------------------------|------------------------------------------|
 | **AQT (Alpine Quantum Technologies)** | Austria, Germany | **20** | Trapped ions | **Medium** | N/A | N/A |
