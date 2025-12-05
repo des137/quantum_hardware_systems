@@ -1,6 +1,5 @@
 # Quantum Hardware Systems
-Characterize quantum hardware on the planet
-
+Characterize quantum hardware
 
 | Company | Countries Where Systems Are Located | Max Public Qubits (Physical) | Modality | Scalability to QEC | Largest Depth of Circuit Run (Public) | Largest # of 2-Qubit Gates Run (Public) |
 |--------|--------------------------------------|-------------------------------|----------|---------------------|----------------------------------------|------------------------------------------|
