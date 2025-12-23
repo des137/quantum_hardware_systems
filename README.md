@@ -1,32 +1,52 @@
 # Quantum Hardware Systems
 Characterize quantum hardware
 
-| Company | Countries Where Systems Are Located | Max Public Qubits (Physical) | Modality | Scalability to QEC | Largest Depth of Circuit Run (Public) | Largest # of 2-Qubit Gates Run (Public) |
-|--------|--------------------------------------|-------------------------------|----------|---------------------|----------------------------------------|------------------------------------------|
-| **AQT (Alpine Quantum Technologies)** | Austria, Germany | **20** | Trapped ions | **Medium** | N/A | N/A |
-| **Alibaba DAMO Academy** (historical) | China | ~11 qubits (historic) | Superconducting | **Low** | N/A | N/A |
-| **Atom Computing (AC1000)** | USA (Colorado & California) | **1,200+** | Neutral atoms | **High** | N/A | N/A |
-| **Baidu Institute for Quantum Computing** | China | ~10–36 qubits (historic) | Superconducting | **Low–Medium** | N/A | N/A |
-| **D-Wave Quantum (Advantage / Advantage2)** | Canada, USA, Germany | **~5,000** (Advantage), **~4,400** (Advantage2) | Quantum annealing | **Medium** | N/A | N/A |
-| **EleQtron** | Germany | ~10+ | Trapped ions | **Medium** | N/A | N/A |
-| **Google Quantum AI** | USA | **53** | Superconducting | **High** | **Depth 20** | **430** |
-| **IBM Quantum** | USA, Germany, Japan, Spain, Canada, South Korea | **1,121** | Superconducting | **High** | N/A | N/A |
-| **IonQ (Forte / Tempo)** | USA | **36** | Trapped ions | **High** | N/A | N/A |
-| **IQM Quantum Computers** | Finland, Germany, USA | **150** | Superconducting | **Medium–High** | N/A | N/A |
-| **Origin Quantum (Wukong)** | China | **72** | Superconducting | **Medium** | N/A | N/A |
-| **ORCA Computing** | UK | N/A (photonic processors) | Photonic | **Medium** | N/A | N/A |
-| **Oxford Ionics** | UK | ~10–20 | Trapped ions | **Medium** | N/A | N/A |
-| **Pasqal** | France, Germany, Canada, Saudi Arabia | **>1000** atoms (100–200 in commercial devices) | Neutral atoms | **High** | N/A | N/A |
-| **Photonic Inc.** | Canada | Few-qubit prototypes | Spin-photon hybrid | **Medium–High** | N/A | N/A |
-| **planqc** | Germany | ~100–200 now, **1,000 planned** | Neutral atoms | **Medium–High** | N/A | N/A |
-| **PsiQuantum** | USA, Australia | Not publicly disclosed | Photonic | **High** | N/A | N/A |
-| **Quantinuum (Helios / H-series)** | USA, UK | **98** (Helios) + logical qubits | Trapped ions | **High** | N/A | N/A |
-| **Quantum Brilliance** | Australia, Germany, USA | **2** qubits/module | NV-center diamond | **Light–Medium** | N/A | N/A |
-| **Quantum Motion** | UK | Few-qubit prototypes | Silicon spin qubits | **Medium–High** | N/A | N/A |
-| **Quandela** | France | 6–12 qubit photonic processors | Photonic | **Medium** | N/A | N/A |
-| **QuEra Computing (Aquila)** | USA | **256** | Neutral atoms | **Medium–High** | N/A | N/A |
-| **QuiX Quantum** | Netherlands | 50–100+ optical modes | Photonic | **Medium** | N/A | N/A |
-| **Rigetti Computing (Ankaa-2)** | USA, UK | **84** | Superconducting | **Medium–High** | N/A | N/A |
-| **Silicon Quantum Computing (SQC)** | Australia | ~10 | Silicon donor qubits | **Medium–High** | N/A | N/A |
-| **SpinQ Technology** | China | 2–3 | NMR | **Light** | N/A | N/A |
-| **Xanadu (Borealis)** | Canada | **216 optical modes** | Photonic CV | **High** | N/A | N/A |
+| Company | Countries | Qubits | Modality | QEC |
+|---------|-----------|--------|----------|-----|
+| **AQT** | AUT, DEU | 20 | Trap-ion | Med |
+| **Alibaba** (hist) | CHN | ~11 | SC | Low |
+| **Atom** (AC1000) | USA | 1200+ | Neut-atom | High |
+| **Baidu** | CHN | ~10–36 | SC | L-M |
+| **D-Wave** (Adv/Adv2) | CAN, USA, DEU | ~5000 / ~4400 | QA | Med |
+| **EleQtron** | DEU | ~10+ | Trap-ion | Med |
+| **Google** | USA | 53 | SC | High |
+| **IBM** | USA, DEU, JPN, ESP, CAN, KOR | 1121 | SC | High |
+| **IonQ** (Forte/Tempo) | USA | 36 | Trap-ion | High |
+| **IQM** | FIN, DEU, USA | 150 | SC | M-H |
+| **Origin** (Wukong) | CHN | 72 | SC | Med |
+| **ORCA** | GBR | N/A | Photon | Med |
+| **Oxford Ionics** | GBR | ~10–20 | Trap-ion | Med |
+| **Pasqal** | FRA, DEU, CAN, SAU | >1000 (100–200 comm) | Neut-atom | High |
+| **Photonic** | CAN | Few | Spin-photon | M-H |
+| **planqc** | DEU | ~100–200 (1000 plan) | Neut-atom | M-H |
+| **PsiQuantum** | USA, AUS | N/A | Photon | High |
+| **Quantinuum** (Helios) | USA, GBR | 98 + logical | Trap-ion | High |
+| **Q-Brilliance** | AUS, DEU, USA | 2/module | NV-diamond | L-M |
+| **Q-Motion** | GBR | Few | Si-spin | M-H |
+| **Quandela** | FRA | 6–12 | Photon | Med |
+| **QuEra** (Aquila) | USA | 256 | Neut-atom | M-H |
+| **QuiX** | NLD | 50–100+ modes | Photon | Med |
+| **Rigetti** (Ankaa-2) | USA, GBR | 84 | SC | M-H |
+| **SQC** | AUS | ~10 | Si-donor | M-H |
+| **SpinQ** | CHN | 2–3 | NMR | Low |
+| **Xanadu** (Borealis) | CAN | 216 modes | Photon-CV | High |
+
+## Feature Explanations
+
+**Countries**: ISO 3-letter country codes (AUT=Austria, AUS=Australia, CAN=Canada, CHN=China, DEU=Germany, ESP=Spain, FIN=Finland, FRA=France, GBR=United Kingdom, JPN=Japan, KOR=South Korea, NLD=Netherlands, SAU=Saudi Arabia, USA=United States)
+
+**Qubits**: Maximum public physical qubits or modes
+
+**Modality**: 
+- SC = Superconducting
+- Trap-ion = Trapped ions
+- Neut-atom = Neutral atoms
+- Photon = Photonic
+- Photon-CV = Photonic continuous variable
+- Si-spin = Silicon spin qubits
+- Si-donor = Silicon donor qubits
+- NV-diamond = NV-center diamond
+- QA = Quantum annealing
+- Spin-photon = Spin-photon hybrid
+
+**QEC**: Scalability to Quantum Error Correction (Low/Med/High or L-M/M-H for ranges)
