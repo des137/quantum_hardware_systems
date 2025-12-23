@@ -6,28 +6,28 @@ Characterize quantum hardware
 | **AQT** | AUT, DEU | 20 | Trap-ion | Med | N/A | N/A | N/A | N/A |
 | **Alibaba** (hist) | CHN | ~11 | SC | Low | N/A | N/A | N/A | N/A |
 | **Atom** (AC1000) | USA | 1200+ | Neut-atom | High | N/A | N/A | N/A | N/A |
-| **Baidu** | CHN | ~10–36 | SC | Low-Med | N/A | N/A | N/A | N/A |
+| **Baidu** | CHN | ~10–36 | SC | L-M | N/A | N/A | N/A | N/A |
 | **D-Wave** (Adv/Adv2) | CAN, USA, DEU | ~5000 / ~4400 | QA | Med | N/A | N/A | N/A | N/A |
 | **EleQtron** | DEU | ~10+ | Trap-ion | Med | N/A | N/A | N/A | N/A |
 | **Google** | USA | 53 | SC | High | N/A | N/A | N/A | N/A |
 | **IBM** | USA, DEU, JPN, ESP, CAN, KOR | 1121 | SC | High | N/A | N/A | N/A | N/A |
 | **IonQ** (Forte/Tempo) | USA | 36 | Trap-ion | High | N/A | N/A | N/A | N/A |
-| **IQM** | FIN, DEU, USA | 150 | SC | Med-High | N/A | N/A | N/A | N/A |
+| **IQM** | FIN, DEU, USA | 150 | SC | M-H | N/A | N/A | N/A | N/A |
 | **Origin** (Wukong) | CHN | 72 | SC | Med | N/A | N/A | N/A | N/A |
 | **ORCA** | GBR | N/A | Photon | Med | N/A | N/A | N/A | N/A |
 | **Oxford Ionics** | GBR | ~10–20 | Trap-ion | Med | N/A | N/A | N/A | N/A |
 | **Pasqal** | FRA, DEU, CAN, SAU | >1000 (100–200 comm) | Neut-atom | High | N/A | N/A | N/A | N/A |
-| **Photonic** | CAN | Few | Spin-photon | Med-High | N/A | N/A | N/A | N/A |
-| **planqc** | DEU | ~100–200 (1000 plan) | Neut-atom | Med-High | N/A | N/A | N/A | N/A |
+| **Photonic** | CAN | Few | Spin-photon | M-H | N/A | N/A | N/A | N/A |
+| **planqc** | DEU | ~100–200 (1000 plan) | Neut-atom | M-H | N/A | N/A | N/A | N/A |
 | **PsiQuantum** | USA, AUS | N/A | Photon | High | N/A | N/A | N/A | N/A |
 | **Quantinuum** (Helios) | USA, GBR | 98 + logical | Trap-ion | High | N/A | N/A | N/A | N/A |
-| **Q-Brilliance** | AUS, DEU, USA | 2/module | NV-diamond | Low-Med | N/A | N/A | N/A | N/A |
-| **Q-Motion** | GBR | Few | Si-spin | Med-High | N/A | N/A | N/A | N/A |
+| **Q-Brilliance** | AUS, DEU, USA | 2/module | NV-diamond | L-M | N/A | N/A | N/A | N/A |
+| **Q-Motion** | GBR | Few | Si-spin | M-H | N/A | N/A | N/A | N/A |
 | **Quandela** | FRA | 6–12 | Photon | Med | N/A | N/A | N/A | N/A |
-| **QuEra** (Aquila) | USA | 256 | Neut-atom | Med-High | N/A | N/A | N/A | N/A |
+| **QuEra** (Aquila) | USA | 256 | Neut-atom | M-H | N/A | N/A | N/A | N/A |
 | **QuiX** | NLD | 50–100+ modes | Photon | Med | N/A | N/A | N/A | N/A |
-| **Rigetti** (Ankaa-2) | USA, GBR | 84 | SC | Med-High | N/A | N/A | N/A | N/A |
-| **SQC** | AUS | ~10 | Si-donor | Med-High | N/A | N/A | N/A | N/A |
+| **Rigetti** (Ankaa-2) | USA, GBR | 84 | SC | M-H | N/A | N/A | N/A | N/A |
+| **SQC** | AUS | ~10 | Si-donor | M-H | N/A | N/A | N/A | N/A |
 | **SpinQ** | CHN | 2–3 | NMR | Low | N/A | N/A | N/A | N/A |
 | **Xanadu** (Borealis) | CAN | 216 modes | Photon-CV | High | N/A | N/A | N/A | N/A |
 
@@ -49,7 +49,7 @@ Characterize quantum hardware
 - QA = Quantum annealing
 - Spin-photon = Spin-photon hybrid
 
-**QEC**: Scalability to Quantum Error Correction (Low/Med/High)
+**QEC**: Scalability to Quantum Error Correction (Low/Med/High or L-M/M-H for ranges)
 
 **T1 (μs)**: Longitudinal relaxation time in microseconds
 
