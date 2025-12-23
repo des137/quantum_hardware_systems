@@ -55,6 +55,6 @@ Characterize quantum hardware
 
 **T2 (μs)**: Transverse coherence time in microseconds
 
-**1Q Fid**: Single-qubit gate fidelity (%)
+**1Q Fid**: Single-qubit gate fidelity (reported as %, e.g., 99.9)
 
-**2Q Fid**: Two-qubit gate fidelity (%)
+**2Q Fid**: Two-qubit gate fidelity (reported as %, e.g., 99.5)
