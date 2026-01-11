@@ -18,8 +18,8 @@ This document provides detailed technical specifications for quantum computing h
 | **QuEra** | Aquila | 256 | ~10⁻³ | 5×10⁻³ | 1.5×10⁻² | ~10⁶ | ~1000 | - | ~µs | Neut-atom |
 | **Pasqal** | - | >1000 | ~10⁻² | ~10⁻² | ~10⁻² | ~10⁶ | ~100 | - | ~µs | Neut-atom |
 | **IQM** | Garnet | 150 | ~10⁻³ | ~10⁻² | ~10⁻² | ~50 | ~30 | - | ~ns | SC |
-| **D-Wave** | Advantage2 | ~4400 | N/A | N/A | N/A | - | - | N/A | ~10ns | QA |
-| **Xanadu** | Borealis | 216 modes | - | - | - | - | - | N/A | ~ns | Photon-CV |
+| **D-Wave** | Advantage2 | ~4400 | - | - | - | - | - | - | ~10ns | QA |
+| **Xanadu** | Borealis | 216 modes | - | - | - | - | - | - | ~ns | Photon-CV |
 | **Origin** | Wukong | 72 | ~10⁻³ | ~10⁻² | ~10⁻² | ~60 | ~40 | - | ~ns | SC |
 | **AQT** | PINE | 20 | 3×10⁻⁴ | 5×10⁻³ | 4×10⁻³ | ~10⁶ | 200 | 128 | ~100µs | Trap-ion |
 
@@ -28,7 +28,7 @@ This document provides detailed technical specifications for quantum computing h
 - SC = Superconducting
 - T1 = Energy relaxation time
 - T2 = Dephasing time (coherence time)
-- "-" indicates data not publicly available
+- "-" indicates data not publicly available or not applicable
 - "~" indicates approximate values
 
 ---
