@@ -1,0 +1,321 @@
+{
+  "metadata": {
+    "last_updated": "2026-03-18",
+    "version": "2.0",
+    "description": "Quantum hardware systems database. This file is the single source of truth for README.md generation."
+  },
+  "systems": [
+    {
+      "company": "Atom",
+      "system": "AC1000",
+      "countries": ["USA"],
+      "qubits": "1225",
+      "modality": "Neut-atom",
+      "qec": "High",
+      "status": "active",
+      "notes": "Partnership with Microsoft for Magne (50 logical qubits by end 2026)"
+    },
+    {
+      "company": "IBM",
+      "system": "Heron r2/Condor",
+      "countries": ["USA", "DEU", "JPN", "ESP", "CAN", "KOR"],
+      "qubits": "1121",
+      "modality": "SC",
+      "qec": "High",
+      "status": "active",
+      "notes": "Condor (1121q) for scale; Heron r2/r3 (156q) flagship for performance. Nighthawk (120q, square topology) announced Nov 2025. Kookaburra (4158q multi-chip) planned 2026"
+    },
+    {
+      "company": "Pasqal",
+      "system": "Orion",
+      "countries": ["FRA", "DEU", "CAN", "SAU"],
+      "qubits": ">1000 (200 deployed)",
+      "modality": "Neut-atom",
+      "qec": "High",
+      "status": "active",
+      "notes": "200-qubit systems deployed at Aramco (SAU), Julich (DEU), CEA (FRA). Targeting 1000 physical qubits by end 2025, 10000 by 2026"
+    },
+    {
+      "company": "Xanadu",
+      "system": "Aurora",
+      "countries": ["CAN"],
+      "qubits": "12 (modular)",
+      "modality": "Photon",
+      "qec": "High",
+      "status": "active",
+      "notes": "Aurora: world's first modular photonic QC (4 networked racks, 35 chips, 13km fiber). Borealis (216 modes) was previous gen. Targeting quantum data center by 2029. DARPA QBI Stage B"
+    },
+    {
+      "company": "Quantinuum",
+      "system": "Helios",
+      "countries": ["USA", "GBR"],
+      "qubits": "98 + 48 logical",
+      "modality": "Trap-ion",
+      "qec": "High",
+      "status": "active",
+      "notes": "Helios launched Nov 2025. 99.9975% 1Q fidelity, 99.921% 2Q fidelity. Sol (192q) planned 2027, Apollo (1000s q, fault-tolerant) planned 2029"
+    },
+    {
+      "company": "Google",
+      "system": "Willow",
+      "countries": ["USA"],
+      "qubits": "105",
+      "modality": "SC",
+      "qec": "High",
+      "status": "active",
+      "notes": "Willow (Dec 2024): 105 qubits, first below-threshold QEC. Oct 2025: first verifiable quantum advantage via Quantum Echoes algorithm. Previous: Sycamore (53q)"
+    },
+    {
+      "company": "IonQ",
+      "system": "Tempo",
+      "countries": ["USA", "KOR"],
+      "qubits": "100",
+      "modality": "Trap-ion",
+      "qec": "High",
+      "status": "active",
+      "notes": "Tempo: 100 qubits, #AQ 64 (achieved 3 months early). Forte Enterprise: #AQ 36 (commercial). 99.99% 2Q gate fidelity (Oct 2025 record). Acquiring Oxford Ionics. 256q planned 2026"
+    },
+    {
+      "company": "PsiQuantum",
+      "system": "Omega",
+      "countries": ["USA", "AUS"],
+      "qubits": "N/A",
+      "modality": "Photon",
+      "qec": "High",
+      "status": "active",
+      "notes": "Omega photonic chipset announced. $1B Series E (2025), $7B valuation. Building sites in Chicago and Brisbane. Manufacturing at GlobalFoundries Fab 8"
+    },
+    {
+      "company": "QuEra",
+      "system": "Aquila+",
+      "countries": ["USA"],
+      "qubits": "3000+",
+      "modality": "Neut-atom",
+      "qec": "M-H",
+      "status": "active",
+      "notes": "3000+ physical qubits, 30 logical qubits (2025). Targeting 10000 physical / 100 logical qubits by 2026. $230M+ raised in 2025"
+    },
+    {
+      "company": "planqc",
+      "system": null,
+      "countries": ["DEU"],
+      "qubits": "~100-200 (1000 plan)",
+      "modality": "Neut-atom",
+      "qec": "M-H",
+      "status": "active",
+      "notes": "100-qubit demonstrator targeted spring 2027. MAQCS project: 1000-qubit system at LRZ by ~2027. Uses strontium atoms"
+    },
+    {
+      "company": "IQM",
+      "system": "Radiance",
+      "countries": ["FIN", "DEU", "USA", "POL"],
+      "qubits": "150",
+      "modality": "SC",
+      "qec": "M-H",
+      "status": "active",
+      "notes": "20, 54, and 150-qubit systems available. 99.51% median 2Q CZ fidelity on 20q. 150q to Finland 2026, 300q planned 2027. 54q deployed at Julich (EuroHPC)"
+    },
+    {
+      "company": "Rigetti",
+      "system": "Ankaa-3",
+      "countries": ["USA", "GBR"],
+      "qubits": "84",
+      "modality": "SC",
+      "qec": "M-H",
+      "status": "active",
+      "notes": "Ankaa-3: 84q, 99.5% median 2Q fidelity. Modular 36q system with 99.5% fidelity (2x error reduction). 100+ qubits by end 2025, 150+ by end 2026"
+    },
+    {
+      "company": "SQC",
+      "system": null,
+      "countries": ["AUS"],
+      "qubits": "11",
+      "modality": "Si-donor",
+      "qec": "M-H",
+      "status": "active",
+      "notes": "11-qubit processor: 99.99% 1Q fidelity, 99.9% 2Q fidelity. 250000 qubit registers patterned in 8 hours. DARPA QBI Stage B. Quantum Twins launched Feb 2026"
+    },
+    {
+      "company": "Photonic",
+      "system": null,
+      "countries": ["CAN"],
+      "qubits": "Few",
+      "modality": "Spin-photon",
+      "qec": "M-H",
+      "status": "active",
+      "notes": "T-centre silicon spin-photon qubits. $180M CAD raised. DARPA QBI Stage B. Targeting fault-tolerant QC by ~2028"
+    },
+    {
+      "company": "Quantum Motion",
+      "system": "CMOS QC",
+      "countries": ["GBR"],
+      "qubits": "Few",
+      "modality": "Si-spin",
+      "qec": "M-H",
+      "status": "active",
+      "notes": "Delivered first full-stack silicon CMOS quantum computer to UK NQCC (Sep 2025). Uses standard 300mm silicon wafers. DARPA QBI Stage B. SiQEC: fault-tolerant unit cell by ~2026"
+    },
+    {
+      "company": "D-Wave",
+      "system": "Adv2",
+      "countries": ["CAN", "USA", "DEU"],
+      "qubits": "~5000 / ~4400",
+      "modality": "QA",
+      "qec": "Med",
+      "status": "active",
+      "notes": "Advantage2 (4400+ qubits, Zephyr topology) GA May 2025. Advantage (5000+, Pegasus). Planning gate-model system in 2026"
+    },
+    {
+      "company": "QuiX",
+      "system": null,
+      "countries": ["NLD"],
+      "qubits": "50-100+ modes",
+      "modality": "Photon",
+      "qec": "Med",
+      "status": "active",
+      "notes": "EUR 15M Series A (Jul 2025). First universal photonic QC (8 qubits) planned 2026, 64-qubit in 2027. Silicon-nitride chips, room temperature"
+    },
+    {
+      "company": "Origin",
+      "system": "Wukong",
+      "countries": ["CHN"],
+      "qubits": "72",
+      "modality": "SC",
+      "qec": "Med",
+      "status": "active",
+      "notes": "72 functional qubits + 126 coupler qubits. 20M+ global visits, deployed at multiple sites. Open-source Origin Pilot OS released Feb 2026"
+    },
+    {
+      "company": "AQT",
+      "system": "PINE/IBEX",
+      "countries": ["AUT", "DEU", "POL"],
+      "qubits": "24",
+      "modality": "Trap-ion",
+      "qec": "Med",
+      "status": "active",
+      "notes": "PINE Q1: QV 128, rack-mounted. IBEX Q1: 12q on AWS Braket, 24-qubit entanglement world record. PINE SET-UP: up to 50 qubits. MILLENION project: 1000q target"
+    },
+    {
+      "company": "Oxford Ionics",
+      "system": "QUARTET",
+      "countries": ["GBR"],
+      "qubits": "~10-20",
+      "modality": "Trap-ion",
+      "qec": "Med",
+      "status": "acquired",
+      "notes": "Delivered QUARTET to UK NQCC (Aug 2025). EQC technology (electronics, not lasers). Being acquired by IonQ (announced Jun 2025)"
+    },
+    {
+      "company": "Quandela",
+      "system": "Lucy/Canopus",
+      "countries": ["FRA", "KOR"],
+      "qubits": "12-24",
+      "modality": "Photon",
+      "qec": "Med",
+      "status": "active",
+      "notes": "Lucy (12q) delivered to EuroHPC at CEA TGCC. Canopus (24q) planned. Available on OVHcloud mid-2026. 20000x simulation speedup with NVIDIA CUDA-Q"
+    },
+    {
+      "company": "EleQtron",
+      "system": "MAGIC",
+      "countries": ["DEU"],
+      "qubits": "~30",
+      "modality": "Trap-ion",
+      "qec": "Med",
+      "status": "active",
+      "notes": "Up to 30-qubit pilot system at Julich (2025). MAGIC technology: microwave-based ion control (no lasers). WEF Technology Pioneer 2025. FullStaQD software stack partner"
+    },
+    {
+      "company": "ORCA",
+      "system": "PT-2",
+      "countries": ["GBR"],
+      "qubits": "~90",
+      "modality": "Photon",
+      "qec": "Med",
+      "status": "active",
+      "notes": "PT-2: ~90 photonic qubits, shipping since early 2025. Deployed at UK NQCC, Montana State. PT-3 planned 2026. Room-temperature photonic system"
+    },
+    {
+      "company": "Q-Brilliance",
+      "system": null,
+      "countries": ["AUS", "DEU", "USA"],
+      "qubits": "2/module",
+      "modality": "NV-diamond",
+      "qec": "L-M",
+      "status": "active",
+      "notes": "Room-temperature NV-center diamond quantum accelerators"
+    },
+    {
+      "company": "Baidu",
+      "system": "Qianshi",
+      "countries": ["CHN"],
+      "qubits": "~10-36",
+      "modality": "SC",
+      "qec": "L-M",
+      "status": "discontinued",
+      "notes": "Shut down quantum research lab Jan 2024. Equipment donated to Beijing Academy of Quantum Information Sciences"
+    },
+    {
+      "company": "Alibaba",
+      "system": null,
+      "countries": ["CHN"],
+      "qubits": "~11",
+      "modality": "SC",
+      "qec": "Low",
+      "status": "discontinued",
+      "notes": "Shut down quantum research lab Nov 2023. Equipment donated to Zhejiang University"
+    },
+    {
+      "company": "SpinQ",
+      "system": "Gemini",
+      "countries": ["CHN"],
+      "qubits": "2-3",
+      "modality": "NMR",
+      "qec": "Low",
+      "status": "active",
+      "notes": "Desktop NMR quantum computers for education. Room temperature operation"
+    }
+  ],
+  "sources": {
+    "aggregators": [
+      "https://thequantuminsider.com/",
+      "https://quantumcomputingreport.com/",
+      "https://postquantum.com/quantum-computing-companies/",
+      "https://quantumzeitgeist.com/"
+    ],
+    "arxiv_categories": [
+      "quant-ph"
+    ],
+    "company_pages": {
+      "IBM": "https://www.ibm.com/quantum/hardware",
+      "Google": "https://quantumai.google/",
+      "Quantinuum": "https://www.quantinuum.com/products-solutions/quantinuum-systems",
+      "IonQ": "https://www.ionq.com/quantum-systems/tempo",
+      "Rigetti": "https://qcs.rigetti.com/qpus",
+      "Atom Computing": "https://atom-computing.com/",
+      "QuEra": "https://www.quera.com/",
+      "Pasqal": "https://www.pasqal.com/",
+      "IQM": "https://meetiqm.com/products/",
+      "D-Wave": "https://www.dwavequantum.com/solutions-and-products/systems/",
+      "Xanadu": "https://www.xanadu.ai/",
+      "PsiQuantum": "https://www.psiquantum.com/",
+      "Origin": "https://originqc.com.cn/en/",
+      "AQT": "https://www.aqt.eu/",
+      "Quandela": "https://www.quandela.com/",
+      "EleQtron": "https://eleqtron.com/en/",
+      "ORCA": "https://orcacomputing.com/",
+      "QuiX": "https://www.quixquantum.com/",
+      "SQC": "https://www.sqc.com.au/",
+      "Photonic": "https://photonic.com/",
+      "Quantum Motion": "https://quantummotion.com/",
+      "Q-Brilliance": "https://qbrilliance.com/",
+      "planqc": "https://planqc.eu/",
+      "SpinQ": "https://www.spinquanta.com/",
+      "Oxford Ionics": "https://www.oxionics.com/"
+    },
+    "wikipedia": [
+      "https://en.wikipedia.org/wiki/List_of_quantum_processors",
+      "https://en.wikipedia.org/wiki/Quantum_computing"
+    ]
+  }
+}
