@@ -1,0 +1,76 @@
+INFO: ============================================================
+INFO: Fetching quantum hardware updates...
+INFO: ============================================================
+INFO: 
+--- Company pages ---
+INFO: Fetching IBM (https://www.ibm.com/quantum/hardware)
+INFO: Fetching Google (https://quantumai.google/)
+INFO: Fetching Quantinuum (https://www.quantinuum.com/products-solutions/quantinuum-systems)
+INFO: Fetching IonQ (https://www.ionq.com/quantum-systems/tempo)
+INFO: Fetching Rigetti (https://qcs.rigetti.com/qpus)
+INFO: Fetching Atom Computing (https://atom-computing.com/)
+INFO: Fetching QuEra (https://www.quera.com/)
+INFO: Fetching Pasqal (https://www.pasqal.com/)
+INFO: Fetching IQM (https://meetiqm.com/products/)
+INFO: Fetching D-Wave (https://www.dwavequantum.com/solutions-and-products/systems/)
+INFO: Fetching Xanadu (https://www.xanadu.ai/)
+INFO: Fetching PsiQuantum (https://www.psiquantum.com/)
+INFO: Fetching Origin (https://originqc.com.cn/en/)
+INFO: Fetching AQT (https://www.aqt.eu/)
+INFO: Fetching Quandela (https://www.quandela.com/)
+INFO: Fetching EleQtron (https://eleqtron.com/en/)
+INFO: Fetching ORCA (https://orcacomputing.com/)
+INFO: Fetching QuiX (https://www.quixquantum.com/)
+INFO: Fetching SQC (https://www.sqc.com.au/)
+INFO: Fetching Photonic (https://photonic.com/)
+INFO: Fetching Quantum Motion (https://quantummotion.com/)
+INFO: Fetching Q-Brilliance (https://qbrilliance.com/)
+INFO: Fetching planqc (https://planqc.eu/)
+INFO: Fetching SpinQ (https://www.spinquanta.com/)
+INFO: Fetching Oxford Ionics (https://www.oxionics.com/)
+INFO: Fetched 25 company pages
+INFO: 
+--- Wikipedia ---
+INFO: Wikipedia text length: 43307 chars
+INFO: 
+--- News feeds ---
+INFO: Fetched 10 news articles
+INFO: 
+--- ArXiv ---
+INFO: Fetched 30 arxiv papers
+INFO: 
+--- Detecting changes ---
+INFO: 
+Potential updates detected:
+INFO:   Photonic: qubits Few -> 12 (source: Quandela)
+INFO:   Photonic: qubits Few -> 12 (source: Quandela)
+INFO: 
+NOTE: These are heuristic detections. Review before applying. Update data/hardware_data.json manually or via PR review.
+INFO: 
+--- Recent quantum hardware news (for manual review) ---
+INFO:   [Wed, 25 Ma] QpiAI Achieves High-Speed Quantum Error Correction on Superconducting Systems with New Decoder Platform
+INFO:   [Wed, 25 Ma] Quantum-Safe Cryptography: Companies and Players Across the Landscape [2026]
+INFO:   [Wed, 25 Ma] Study Shows Quantum Sensors Can Be Actively Moved Inside Cells For Real-Time Data
+INFO:   [Wed, 25 Ma] ANELLO and Q-CTRL Partner on GPS-Independent Navigation for UAVs
+INFO:   [Wed, 25 Ma] Fujitsu, The University of Osaka Develop New Technologies For Chemical Material Energy Calculations on Early Quantum Computers
+INFO:   [Tue, 24 Ma] New Zealand Researchers Report Advance in Optical Ising Machine for Hybrid Quantum Optimization
+INFO:   [Tue, 24 Ma] Washington Begins to Treat Quantum Technology as a Strategic Priority
+INFO:   [Tue, 24 Ma] Google Paves a Two-Lane Quantum Roadmap by Adding Neutral Atom Systems
+INFO:   [Tue, 24 Ma] NRFC Investment Accelerates SQC’s Atomic-Scale Manufacturing
+INFO:   [Tue, 24 Ma] NSF announces winners of the U.S. critical minerals challenge to secure key domestic supply chain
+INFO: 
+--- Recent arxiv papers ---
+INFO:   [2026-03-24] Magnetic flux distribution, quasiparticle spectroscopy, and quality factors in Nb films for superconducting qubits
+INFO:   [2026-03-24] Charging efficiency bursts in a quantum battery with cyclic indefinite causal order
+INFO:   [2026-03-23] Low Latency GNN Accelerator for Quantum Error Correction
+INFO:   [2026-03-23] Hyperloss from coherent spatial-mode mixing in quantum-correlated networks
+INFO:   [2026-03-23] Neural Belief-Matching Decoding for Topological Quantum Error Correction Codes
+INFO:   [2026-03-23] All-optical quantum memory using bosonic quantum error correction codes
+INFO:   [2026-03-23] Systematic construction of digital autonomous quantum error correction for state preparation and error suppression via conditional Gaussian operations
+INFO:   [2026-03-23] High-yield integration design of fixed-frequency superconducting qubit systems using siZZle-CZ gates
+INFO:   [2026-03-23] Optimal Compilation of Syndrome Extraction Circuits for General Quantum LDPC Codes
+INFO:   [2026-03-22] Proposal for erasure conversion in integer fluxonium qubits
+INFO: 
+Update log saved to /home/runner/work/quantum_hardware_systems/quantum_hardware_systems/data/update_log.json
+INFO: 
+README.md regenerated
