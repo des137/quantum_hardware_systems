@@ -48,28 +48,28 @@ INFO:
 NOTE: These are heuristic detections. Review before applying. Update data/hardware_data.json manually or via PR review.
 INFO: 
 --- Recent quantum hardware news (for manual review) ---
-INFO:   [Wed, 25 Ma] QpiAI Achieves High-Speed Quantum Error Correction on Superconducting Systems with New Decoder Platform
-INFO:   [Wed, 25 Ma] Quantum-Safe Cryptography: Companies and Players Across the Landscape [2026]
-INFO:   [Wed, 25 Ma] Study Shows Quantum Sensors Can Be Actively Moved Inside Cells For Real-Time Data
-INFO:   [Wed, 25 Ma] ANELLO and Q-CTRL Partner on GPS-Independent Navigation for UAVs
-INFO:   [Wed, 25 Ma] Fujitsu, The University of Osaka Develop New Technologies For Chemical Material Energy Calculations on Early Quantum Computers
-INFO:   [Tue, 24 Ma] New Zealand Researchers Report Advance in Optical Ising Machine for Hybrid Quantum Optimization
-INFO:   [Tue, 24 Ma] Washington Begins to Treat Quantum Technology as a Strategic Priority
-INFO:   [Tue, 24 Ma] Google Paves a Two-Lane Quantum Roadmap by Adding Neutral Atom Systems
-INFO:   [Tue, 24 Ma] NRFC Investment Accelerates SQC’s Atomic-Scale Manufacturing
-INFO:   [Tue, 24 Ma] NSF announces winners of the U.S. critical minerals challenge to secure key domestic supply chain
+INFO:   [Mon, 30 Ma] IQM Secures €50 Million Financing to Accelerate Global Growth
+INFO:   [Sat, 28 Ma] Google Opens Early Access to ‘Willow’ Quantum Processor, Invites Experimental Proposals
+INFO:   [Sat, 28 Ma] Chinese Researchers Demonstrate Logical Operations on Silicon Quantum Processor
+INFO:   [Sat, 28 Ma] Guest Post &#8212; Quantum Digital Twins: The Missing Acceleration Layer for Quantum Hardware
+INFO:   [Fri, 27 Ma] Xanadu Becomes First Pure-Play Photonic Quantum Computing Company to Go Public
+INFO:   [Fri, 27 Ma] SBQuantum to Launch Quantum Sensor Into Space as Part of U.S. Government’s MagQuest Challenge
+INFO:   [Fri, 27 Ma] China Telecom Latest Report Flags Quantum as a Key Growth Driver, But Scale Remains Uncertain
+INFO:   [Fri, 27 Ma] Wellcome Leap Q4Bio Finalists Present Quantum Approaches to Biomedical Challenges
+INFO:   [Fri, 27 Ma] Researchers from Cleveland Clinic and IBM Simulate Protein Structures with Quantum Computing
+INFO:   [Fri, 27 Ma] 15+ Global Banks Exploring Quantum Technologies [2026]
 INFO: 
 --- Recent arxiv papers ---
-INFO:   [2026-03-24] Magnetic flux distribution, quasiparticle spectroscopy, and quality factors in Nb films for superconducting qubits
-INFO:   [2026-03-24] Charging efficiency bursts in a quantum battery with cyclic indefinite causal order
-INFO:   [2026-03-23] Low Latency GNN Accelerator for Quantum Error Correction
-INFO:   [2026-03-23] Hyperloss from coherent spatial-mode mixing in quantum-correlated networks
-INFO:   [2026-03-23] Neural Belief-Matching Decoding for Topological Quantum Error Correction Codes
-INFO:   [2026-03-23] All-optical quantum memory using bosonic quantum error correction codes
-INFO:   [2026-03-23] Systematic construction of digital autonomous quantum error correction for state preparation and error suppression via conditional Gaussian operations
-INFO:   [2026-03-23] High-yield integration design of fixed-frequency superconducting qubit systems using siZZle-CZ gates
-INFO:   [2026-03-23] Optimal Compilation of Syndrome Extraction Circuits for General Quantum LDPC Codes
-INFO:   [2026-03-22] Proposal for erasure conversion in integer fluxonium qubits
+INFO:   [2026-03-27] Hardware-Aware Tensor Networks for Real-Time Quantum-Inspired Anomaly Detection at Particle Colliders
+INFO:   [2026-03-27] Reconstructing Quantum Dot Charge Stability Diagrams with Diffusion Models
+INFO:   [2026-03-27] Majorana-XYZ subsystem code
+INFO:   [2026-03-26] EPAR: Electromagnetic Pathways to Architectural Reliability in Quantum Processors
+INFO:   [2026-03-26] Catalytic Coherence Amplification for Quantum State Recovery: Theory, Numerical Validation, and Comparison with Conventional Error Correction
+INFO:   [2026-03-26] Explicit States with Two-sided Long-Range Magic
+INFO:   [2026-03-26] Quantum Inspired Vehicular Network Optimization for Intelligent Decision Making in Smart Cities
+INFO:   [2026-03-25] Robust Parametric Quantum Gate Against Stochastic Time-Varying Noise
+INFO:   [2026-03-25] Time-frequency Talbot effect as Clifford operations on entangled time-frequency GKP states
+INFO:   [2026-03-25] Correlated Atom Loss as a Resource for Quantum Error Correction
 INFO: 
 Update log saved to /home/runner/work/quantum_hardware_systems/quantum_hardware_systems/data/update_log.json
 INFO: 
