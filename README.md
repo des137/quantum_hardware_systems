@@ -56,4 +56,4 @@ Characterize quantum hardware
 
 ---
 
-*Data last verified: 2026-03-18. Updated weekly via GitHub Actions — see [scripts/update_hardware_data.py](scripts/update_hardware_data.py) and [data/hardware_data.json](data/hardware_data.json) for sources and methodology.*
+*Data last verified: 2026-04-02. Updated weekly via GitHub Actions — see [scripts/update_hardware_data.py](scripts/update_hardware_data.py) and [data/hardware_data.json](data/hardware_data.json) for sources and methodology.*

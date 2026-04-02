@@ -477,6 +477,15 @@ def main():
     append_changelog(changes, source_summary)
     log.info("\nUpdate log saved to %s", CHANGELOG_FILE)
 
+    # ----- Update last_updated date -----
+    # Always update in-memory so the README preview in dry-run mode reflects
+    # the date that would be written.  The file is only written when not dry-run.
+    today = datetime.now(timezone.utc).date().isoformat()
+    data.setdefault("metadata", {})["last_updated"] = today
+    if not args.dry_run:
+        DATA_FILE.write_text(json.dumps(data, indent=2) + "\n")
+        log.info("hardware_data.json last_updated set to %s", today)
+
     # ----- Regenerate README -----
     readme_content = generate_readme(data)
     if args.dry_run:
