@@ -42,7 +42,7 @@ jobs:
             python scripts/update_hardware_data.py 2>&1 | tee update_output.txt
           fi
 
-          echo "exit_code=$?" >> $GITHUB_OUTPUT
+          echo "exit_code=${PIPESTATUS[0]}" >> $GITHUB_OUTPUT
 
       - name: Check for changes
         id: changes

@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_updated": "2026-03-18",
+    "last_updated": "2026-04-02",
     "version": "2.0",
     "description": "Quantum hardware systems database. This file is the single source of truth for README.md generation."
   },
@@ -8,7 +8,9 @@
     {
       "company": "Atom",
       "system": "AC1000",
-      "countries": ["USA"],
+      "countries": [
+        "USA"
+      ],
       "qubits": "1225",
       "modality": "Neut-atom",
       "qec": "High",
@@ -18,7 +20,14 @@
     {
       "company": "IBM",
       "system": "Heron r2/Condor",
-      "countries": ["USA", "DEU", "JPN", "ESP", "CAN", "KOR"],
+      "countries": [
+        "USA",
+        "DEU",
+        "JPN",
+        "ESP",
+        "CAN",
+        "KOR"
+      ],
       "qubits": "1121",
       "modality": "SC",
       "qec": "High",
@@ -28,7 +37,12 @@
     {
       "company": "Pasqal",
       "system": "Orion",
-      "countries": ["FRA", "DEU", "CAN", "SAU"],
+      "countries": [
+        "FRA",
+        "DEU",
+        "CAN",
+        "SAU"
+      ],
       "qubits": ">1000 (200 deployed)",
       "modality": "Neut-atom",
       "qec": "High",
@@ -38,7 +52,9 @@
     {
       "company": "Xanadu",
       "system": "Aurora",
-      "countries": ["CAN"],
+      "countries": [
+        "CAN"
+      ],
       "qubits": "12 (modular)",
       "modality": "Photon",
       "qec": "High",
@@ -48,7 +64,10 @@
     {
       "company": "Quantinuum",
       "system": "Helios",
-      "countries": ["USA", "GBR"],
+      "countries": [
+        "USA",
+        "GBR"
+      ],
       "qubits": "98 + 48 logical",
       "modality": "Trap-ion",
       "qec": "High",
@@ -58,7 +77,9 @@
     {
       "company": "Google",
       "system": "Willow",
-      "countries": ["USA"],
+      "countries": [
+        "USA"
+      ],
       "qubits": "105",
       "modality": "SC",
       "qec": "High",
@@ -68,7 +89,10 @@
     {
       "company": "IonQ",
       "system": "Tempo",
-      "countries": ["USA", "KOR"],
+      "countries": [
+        "USA",
+        "KOR"
+      ],
       "qubits": "100",
       "modality": "Trap-ion",
       "qec": "High",
@@ -78,7 +102,10 @@
     {
       "company": "PsiQuantum",
       "system": "Omega",
-      "countries": ["USA", "AUS"],
+      "countries": [
+        "USA",
+        "AUS"
+      ],
       "qubits": "N/A",
       "modality": "Photon",
       "qec": "High",
@@ -88,7 +115,9 @@
     {
       "company": "QuEra",
       "system": "Aquila+",
-      "countries": ["USA"],
+      "countries": [
+        "USA"
+      ],
       "qubits": "3000+",
       "modality": "Neut-atom",
       "qec": "M-H",
@@ -98,7 +127,9 @@
     {
       "company": "planqc",
       "system": null,
-      "countries": ["DEU"],
+      "countries": [
+        "DEU"
+      ],
       "qubits": "~100-200 (1000 plan)",
       "modality": "Neut-atom",
       "qec": "M-H",
@@ -108,7 +139,12 @@
     {
       "company": "IQM",
       "system": "Radiance",
-      "countries": ["FIN", "DEU", "USA", "POL"],
+      "countries": [
+        "FIN",
+        "DEU",
+        "USA",
+        "POL"
+      ],
       "qubits": "150",
       "modality": "SC",
       "qec": "M-H",
@@ -118,7 +154,10 @@
     {
       "company": "Rigetti",
       "system": "Ankaa-3",
-      "countries": ["USA", "GBR"],
+      "countries": [
+        "USA",
+        "GBR"
+      ],
       "qubits": "84",
       "modality": "SC",
       "qec": "M-H",
@@ -128,7 +167,9 @@
     {
       "company": "SQC",
       "system": null,
-      "countries": ["AUS"],
+      "countries": [
+        "AUS"
+      ],
       "qubits": "11",
       "modality": "Si-donor",
       "qec": "M-H",
@@ -138,7 +179,9 @@
     {
       "company": "Photonic",
       "system": null,
-      "countries": ["CAN"],
+      "countries": [
+        "CAN"
+      ],
       "qubits": "Few",
       "modality": "Spin-photon",
       "qec": "M-H",
@@ -148,7 +191,9 @@
     {
       "company": "Quantum Motion",
       "system": "CMOS QC",
-      "countries": ["GBR"],
+      "countries": [
+        "GBR"
+      ],
       "qubits": "Few",
       "modality": "Si-spin",
       "qec": "M-H",
@@ -158,7 +203,11 @@
     {
       "company": "D-Wave",
       "system": "Adv2",
-      "countries": ["CAN", "USA", "DEU"],
+      "countries": [
+        "CAN",
+        "USA",
+        "DEU"
+      ],
       "qubits": "~5000 / ~4400",
       "modality": "QA",
       "qec": "Med",
@@ -168,7 +217,9 @@
     {
       "company": "QuiX",
       "system": null,
-      "countries": ["NLD"],
+      "countries": [
+        "NLD"
+      ],
       "qubits": "50-100+ modes",
       "modality": "Photon",
       "qec": "Med",
@@ -178,7 +229,9 @@
     {
       "company": "Origin",
       "system": "Wukong",
-      "countries": ["CHN"],
+      "countries": [
+        "CHN"
+      ],
       "qubits": "72",
       "modality": "SC",
       "qec": "Med",
@@ -188,7 +241,11 @@
     {
       "company": "AQT",
       "system": "PINE/IBEX",
-      "countries": ["AUT", "DEU", "POL"],
+      "countries": [
+        "AUT",
+        "DEU",
+        "POL"
+      ],
       "qubits": "24",
       "modality": "Trap-ion",
       "qec": "Med",
@@ -198,7 +255,9 @@
     {
       "company": "Oxford Ionics",
       "system": "QUARTET",
-      "countries": ["GBR"],
+      "countries": [
+        "GBR"
+      ],
       "qubits": "~10-20",
       "modality": "Trap-ion",
       "qec": "Med",
@@ -208,7 +267,10 @@
     {
       "company": "Quandela",
       "system": "Lucy/Canopus",
-      "countries": ["FRA", "KOR"],
+      "countries": [
+        "FRA",
+        "KOR"
+      ],
       "qubits": "12-24",
       "modality": "Photon",
       "qec": "Med",
@@ -218,7 +280,9 @@
     {
       "company": "EleQtron",
       "system": "MAGIC",
-      "countries": ["DEU"],
+      "countries": [
+        "DEU"
+      ],
       "qubits": "~30",
       "modality": "Trap-ion",
       "qec": "Med",
@@ -228,7 +292,9 @@
     {
       "company": "ORCA",
       "system": "PT-2",
-      "countries": ["GBR"],
+      "countries": [
+        "GBR"
+      ],
       "qubits": "~90",
       "modality": "Photon",
       "qec": "Med",
@@ -238,7 +304,11 @@
     {
       "company": "Q-Brilliance",
       "system": null,
-      "countries": ["AUS", "DEU", "USA"],
+      "countries": [
+        "AUS",
+        "DEU",
+        "USA"
+      ],
       "qubits": "2/module",
       "modality": "NV-diamond",
       "qec": "L-M",
@@ -248,7 +318,9 @@
     {
       "company": "Baidu",
       "system": "Qianshi",
-      "countries": ["CHN"],
+      "countries": [
+        "CHN"
+      ],
       "qubits": "~10-36",
       "modality": "SC",
       "qec": "L-M",
@@ -258,7 +330,9 @@
     {
       "company": "Alibaba",
       "system": null,
-      "countries": ["CHN"],
+      "countries": [
+        "CHN"
+      ],
       "qubits": "~11",
       "modality": "SC",
       "qec": "Low",
@@ -268,7 +342,9 @@
     {
       "company": "SpinQ",
       "system": "Gemini",
-      "countries": ["CHN"],
+      "countries": [
+        "CHN"
+      ],
       "qubits": "2-3",
       "modality": "NMR",
       "qec": "Low",
