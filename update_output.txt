@@ -31,7 +31,7 @@ INFO: Fetching Oxford Ionics (https://www.oxionics.com/)
 INFO: Fetched 25 company pages
 INFO: 
 --- Wikipedia ---
-INFO: Wikipedia text length: 43170 chars
+INFO: Wikipedia text length: 43585 chars
 INFO: 
 --- News feeds ---
 INFO: Fetched 10 news articles
@@ -48,29 +48,30 @@ INFO:
 NOTE: These are heuristic detections. Review before applying. Update data/hardware_data.json manually or via PR review.
 INFO: 
 --- Recent quantum hardware news (for manual review) ---
-INFO:   [Sat, 04 Ap] Is There a Silver Lining Behind The Looming Dark Clouds of Quantum&#8217;s Crypto-busting Powers?
-INFO:   [Fri, 03 Ap] Palm Beach State College Takes Aim at Quantum Workforce Demand
-INFO:   [Fri, 03 Ap] SpinQ Technology Secures Nearly 1 Billion Chinese Yuan in Series C Funding to Scale Industrial Superconducting Quantum Computing
-INFO:   [Fri, 03 Ap] Coinbase CEO Addresses &#8216;Quantum Threat&#8217; to Cryptocurrencies
-INFO:   [Fri, 03 Ap] QuEra Launches Open-Source Package to Simulate Logical Quantum Circuits at Scale
-INFO:   [Fri, 03 Ap] CavilinQ Secures $8.8M Seed Round to Architect the Interconnect Layer for Scalable Quantum Systems
-INFO:   [Thu, 02 Ap] Twinning! Quantum ‘Digital Twins’ Tackle Error Correction Task to Speed Path to Reliable Quantum Computers
-INFO:   [Thu, 02 Ap] Dancing to Invisible Choreography, Quantum Computers Can Balance The Noise
-INFO:   [Thu, 02 Ap] Infleqtion Delivers Quantum Precision Timing for Mission-Critical Systems
-INFO:   [Thu, 02 Ap] QuiX Quantum Demonstrates Below-Threshold Error Mitigation in Photonic Quantum Computing For First Time
+INFO:   [Mon, 13 Ap] The Conversation: Quantum Computers Are Coming to Break Our Codes Faster Than Anyone Expected
+INFO:   [Sun, 12 Ap] Guest Post: The UK&#8217;s Quantum Ambitions Will Fail Without The Components to Make Them Real
+INFO:   [Sat, 11 Ap] Pasqal and True Nexus Collaborate on Quantum Modeling for Food Proteins
+INFO:   [Sat, 11 Ap] Northwest Quantum Nexus Hosts Quantum Day Event in Seattle
+INFO:   [Sat, 11 Ap] AI Decoder Could Cut Quantum Errors by Up to 17×, Study Finds
+INFO:   [Sat, 11 Ap] Improving Vibration Decoupling in Dilution Refrigeration for Quantum Computing &#8212; Guest Post
+INFO:   [Fri, 10 Ap] Qolab, IQCC Launch John Martinis Grants for Superconducting Qubit Research
+INFO:   [Fri, 10 Ap] IQM Opens First U.S. Quantum Technology Center in Maryland
+INFO:   [Fri, 10 Ap] New Proposal Claims Quantum-Safe Bitcoin Without a Fork
+INFO:   [Fri, 10 Ap] Study Finds Exponential Quantum Advantage in Machine Learning Tasks
 INFO: 
 --- Recent arxiv papers ---
-INFO:   [2026-04-03] Characterizing charge-parity detection based on an offset-charge-tunable transmon qubit via randomized benchmarking
-INFO:   [2026-04-02] RFOX (Rotated-Field Oscillatory eXchange) quantum algorithm: Towards Parameter-Free Quantum Optimizers
-INFO:   [2026-04-01] Simultaneous operation of an 18-qubit modular array in germanium
-INFO:   [2026-04-01] Tsim: Fast Universal Simulator for Quantum Error Correction
-INFO:   [2026-04-01] Two-Qubit Implementation of QAOA for MAX-CUT on an NV-Center Quantum Processor
-INFO:   [2026-03-31] Non-perturbative CPMG scaling and qutrit-driven breakdown under compiled superconducting-qubit control: a single-qubit study
-INFO:   [2026-03-31] PAEMS: Precise and Adaptive Error Model for Superconducting Quantum Processors
-INFO:   [2026-03-30] Oxide-nitride heteroepitaxy for low-loss dielectrics in superconducting quantum circuits
-INFO:   [2026-03-30] Shor's algorithm is possible with as few as 10,000 reconfigurable atomic qubits
-INFO:   [2026-03-30] SesQ: A Surface Electrostatic Simulator for Precise Energy Participation Ratio Simulation in Superconducting Qubits
+INFO:   [2026-04-10] Tantalum-Encapsulated Niobium Superconducting Resonators: High Internal Quality Factor and Improved Temporal Stability via Surface Passivation
+INFO:   [2026-04-10] Impact of Pump Phase-Noise on Josephson Traveling-Wave Parametric Amplifiers
+INFO:   [2026-04-09] Hardware-Efficient Erasure Qubits With Superconducting Transmon Qutrits
+INFO:   [2026-04-09] High-Fidelity Transmon Reset with a Multimode Acoustic Resonator
+INFO:   [2026-04-09] Scalable Neural Decoders for Practical Fault-Tolerant Quantum Computation
+INFO:   [2026-04-09] Photon pairs, squeezed light and the quantum wave mixing effect in a cascaded qubit system
+INFO:   [2026-04-09] Belief Propagation Convergence Prediction for Bivariate Bicycle Quantum Error Correction Codes
+INFO:   [2026-04-09] Hardware-Aware Quantum Support Vector Machines
+INFO:   [2026-04-08] A hardware efficient quantum residual neural network without post-selection
+INFO:   [2026-04-08] Discrete-variable assisted error correction of continuous-variable quantum information
 INFO: 
 Update log saved to /home/runner/work/quantum_hardware_systems/quantum_hardware_systems/data/update_log.json
+INFO: hardware_data.json last_updated set to 2026-04-13
 INFO: 
 README.md regenerated
