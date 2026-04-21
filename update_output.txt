@@ -48,30 +48,30 @@ INFO:
 NOTE: These are heuristic detections. Review before applying. Update data/hardware_data.json manually or via PR review.
 INFO: 
 --- Recent quantum hardware news (for manual review) ---
-INFO:   [Mon, 13 Ap] The Conversation: Quantum Computers Are Coming to Break Our Codes Faster Than Anyone Expected
-INFO:   [Sun, 12 Ap] Guest Post: The UK&#8217;s Quantum Ambitions Will Fail Without The Components to Make Them Real
-INFO:   [Sat, 11 Ap] Pasqal and True Nexus Collaborate on Quantum Modeling for Food Proteins
-INFO:   [Sat, 11 Ap] Northwest Quantum Nexus Hosts Quantum Day Event in Seattle
-INFO:   [Sat, 11 Ap] AI Decoder Could Cut Quantum Errors by Up to 17×, Study Finds
-INFO:   [Sat, 11 Ap] Improving Vibration Decoupling in Dilution Refrigeration for Quantum Computing &#8212; Guest Post
-INFO:   [Fri, 10 Ap] Qolab, IQCC Launch John Martinis Grants for Superconducting Qubit Research
-INFO:   [Fri, 10 Ap] IQM Opens First U.S. Quantum Technology Center in Maryland
-INFO:   [Fri, 10 Ap] New Proposal Claims Quantum-Safe Bitcoin Without a Fork
-INFO:   [Fri, 10 Ap] Study Finds Exponential Quantum Advantage in Machine Learning Tasks
+INFO:   [Mon, 20 Ap] New Model Explains How Single Electrons Cause Damage Inside Silicon Chips
+INFO:   [Mon, 20 Ap] Quantum Myths vs Reality &#8211; Understanding Where the Technology Actually Stands
+INFO:   [Sat, 18 Ap] Overview of 10+ Quantum Companies in Germany &#8211; 2026
+INFO:   [Sat, 18 Ap] Study: Majorana States Get Easier to Find as Quantum Chains Grow Longer
+INFO:   [Sat, 18 Ap] The Korea Quantum Trade: Why Seoul Produced the Biggest Stock Moves on NVIDIA&#8217;s Ising Launch
+INFO:   [Fri, 17 Ap] OVHcloud Adds Quandela Belenos to Quantum Platform
+INFO:   [Fri, 17 Ap] Aalto Team Reports New Algorithm Tackles Quasicrystal Calculations Beyond Classical Limits
+INFO:   [Fri, 17 Ap] ­C12 Unveils Roadmap, Targets Useful Fault-tolerant Quantum Computing by 2033
+INFO:   [Fri, 17 Ap] Vexlum and Menlo Systems Partner on Optical Clock Technology
+INFO:   [Fri, 17 Ap] Qclairvoyance Quantum Labs Achieves Chemically Accurate Molecular Simulations on IQM Quantum Hardware
 INFO: 
 --- Recent arxiv papers ---
-INFO:   [2026-04-10] Tantalum-Encapsulated Niobium Superconducting Resonators: High Internal Quality Factor and Improved Temporal Stability via Surface Passivation
-INFO:   [2026-04-10] Impact of Pump Phase-Noise on Josephson Traveling-Wave Parametric Amplifiers
-INFO:   [2026-04-09] Hardware-Efficient Erasure Qubits With Superconducting Transmon Qutrits
-INFO:   [2026-04-09] High-Fidelity Transmon Reset with a Multimode Acoustic Resonator
-INFO:   [2026-04-09] Scalable Neural Decoders for Practical Fault-Tolerant Quantum Computation
-INFO:   [2026-04-09] Photon pairs, squeezed light and the quantum wave mixing effect in a cascaded qubit system
-INFO:   [2026-04-09] Belief Propagation Convergence Prediction for Bivariate Bicycle Quantum Error Correction Codes
-INFO:   [2026-04-09] Hardware-Aware Quantum Support Vector Machines
-INFO:   [2026-04-08] A hardware efficient quantum residual neural network without post-selection
-INFO:   [2026-04-08] Discrete-variable assisted error correction of continuous-variable quantum information
+INFO:   [2026-04-17] Fast, High-Fidelity Erasure Detection of Dual-Rail Qubits with Symmetrically Coupled Readout
+INFO:   [2026-04-17] Towards Ultra-High-Rate Quantum Error Correction with Reconfigurable Atom Arrays
+INFO:   [2026-04-17] A unified framework for efficient quantum simulation of nonlinear spectroscopy
+INFO:   [2026-04-17] MacWilliams Identities for Intrinsic Quantum Codes
+INFO:   [2026-04-17] Digital Predistortion for Flux Control of Tunable Superconducting Qubits
+INFO:   [2026-04-17] Explainable quantum regression algorithm with encoded data structure
+INFO:   [2026-04-16] Efficient $n$-qubit entangling operations via a superconducting quantum router
+INFO:   [2026-04-16] Tensor Networks with Belief Propagation Cannot Feasibly Simulate Google's Quantum Echoes Experiment
+INFO:   [2026-04-16] Universal quantum state purification with energy-preserving operations
+INFO:   [2026-04-16] Simulation of quantum annealing on a semiconducting cQED device for Multiple Hypothesis Tracking (MHT) benchmark
 INFO: 
 Update log saved to /home/runner/work/quantum_hardware_systems/quantum_hardware_systems/data/update_log.json
-INFO: hardware_data.json last_updated set to 2026-04-13
+INFO: hardware_data.json last_updated set to 2026-04-20
 INFO: 
 README.md regenerated
