@@ -34,7 +34,7 @@ INFO:
 INFO: Wikipedia text length: 43585 chars
 INFO: 
 --- News feeds ---
-INFO: Fetched 10 news articles
+INFO: Fetched 20 news articles
 INFO: 
 --- ArXiv ---
 INFO: Fetched 30 arxiv papers
@@ -48,30 +48,35 @@ INFO:
 NOTE: These are heuristic detections. Review before applying. Update data/hardware_data.json manually or via PR review.
 INFO: 
 --- Recent quantum hardware news (for manual review) ---
-INFO:   [Mon, 20 Ap] New Model Explains How Single Electrons Cause Damage Inside Silicon Chips
-INFO:   [Mon, 20 Ap] Quantum Myths vs Reality &#8211; Understanding Where the Technology Actually Stands
-INFO:   [Sat, 18 Ap] Overview of 10+ Quantum Companies in Germany &#8211; 2026
-INFO:   [Sat, 18 Ap] Study: Majorana States Get Easier to Find as Quantum Chains Grow Longer
-INFO:   [Sat, 18 Ap] The Korea Quantum Trade: Why Seoul Produced the Biggest Stock Moves on NVIDIA&#8217;s Ising Launch
-INFO:   [Fri, 17 Ap] OVHcloud Adds Quandela Belenos to Quantum Platform
-INFO:   [Fri, 17 Ap] Aalto Team Reports New Algorithm Tackles Quasicrystal Calculations Beyond Classical Limits
-INFO:   [Fri, 17 Ap] ­C12 Unveils Roadmap, Targets Useful Fault-tolerant Quantum Computing by 2033
-INFO:   [Fri, 17 Ap] Vexlum and Menlo Systems Partner on Optical Clock Technology
-INFO:   [Fri, 17 Ap] Qclairvoyance Quantum Labs Achieves Chemically Accurate Molecular Simulations on IQM Quantum Hardware
+INFO:   [Mon, 27 Ap] Scientists Propose Early-Warning System for Quantum Supply Chain as China Tightens Minerals Grip
+INFO:   [Mon, 27 Ap] Quantum Security: Threats, Solutions, and the Race to Protect Data
+INFO:   [Mon, 27 Ap] QuantumCore Partners with Institute of Quantum Computing in $1.7 million Non-Dilutive Grant from NSERC
+INFO:   [Sat, 25 Ap] Quantropi Moves Toward Public Listing Through Mandeville Merger
+INFO:   [Sat, 25 Ap] Coinbase Advisers Warn Quantum Computing Will Crack Blockchain Encryption &#8212; And The Window to Prepare Is Narrowing
+INFO:   [Sat, 25 Ap] Podcast with Tom Darras, CEO and co-founder, Welinq
+INFO:   [Fri, 24 Ap] National Quantum Algorithm Center at the IQMP Announces Grand Challenges Awards
+INFO:   [Fri, 24 Ap] 15-Bit ECC Key Broken on Quantum Hardware Wins Q-Day Prize
+INFO:   [Fri, 24 Ap] Cisco Unveils Prototype to Link Quantum Computers Into a Network
+INFO:   [Fri, 24 Ap] The History of Quantum Computing: From Theory to Systems
+INFO:   [Sun, 26 Ap] Pennsylvania Launch Ecosystem-Wide &#8220;Keystone AI + Quantum Factory&#8221;
+INFO:   [Sat, 25 Ap] Quantinuum Has Submitted a Confidential S-1 Filing to the U.S. SEC for a Proposed Initial Public Offering (IPO) of their Common Stock
+INFO:   [Sat, 25 Ap] QuantumCore Secures $1.7M NSERC Grant to Advance Superconducting Amplifiers
+INFO:   [Sat, 25 Ap] Q-Day: Accelerated Timeline Across Wider Attack Surface &#8211; Executive Summary
+INFO:   [Fri, 24 Ap] IonQ and Q-CTRL Integrate Fire Opal for Native Quantum Optimization
 INFO: 
 --- Recent arxiv papers ---
-INFO:   [2026-04-17] Fast, High-Fidelity Erasure Detection of Dual-Rail Qubits with Symmetrically Coupled Readout
-INFO:   [2026-04-17] Towards Ultra-High-Rate Quantum Error Correction with Reconfigurable Atom Arrays
-INFO:   [2026-04-17] A unified framework for efficient quantum simulation of nonlinear spectroscopy
-INFO:   [2026-04-17] MacWilliams Identities for Intrinsic Quantum Codes
-INFO:   [2026-04-17] Digital Predistortion for Flux Control of Tunable Superconducting Qubits
-INFO:   [2026-04-17] Explainable quantum regression algorithm with encoded data structure
-INFO:   [2026-04-16] Efficient $n$-qubit entangling operations via a superconducting quantum router
-INFO:   [2026-04-16] Tensor Networks with Belief Propagation Cannot Feasibly Simulate Google's Quantum Echoes Experiment
-INFO:   [2026-04-16] Universal quantum state purification with energy-preserving operations
-INFO:   [2026-04-16] Simulation of quantum annealing on a semiconducting cQED device for Multiple Hypothesis Tracking (MHT) benchmark
+INFO:   [2026-04-24] Boundary-Aware Stabilizer Scheduling for Distributed Quantum Error Correction
+INFO:   [2026-04-23] Loss-biased fault-tolerant quantum error correction
+INFO:   [2026-04-23] High-performance cellular automaton decoders for quantum repetition and toric code
+INFO:   [2026-04-23] Deterministic generation of grid states with programmable nonlinear bosonic circuits
+INFO:   [2026-04-23] Near-Term Reduction in Nonlocal Gate Count from Distributed Logical Qubits
+INFO:   [2026-04-23] Pulse Shaping for Superconducting Qubits
+INFO:   [2026-04-23] LightStim: A Framework for QEC Protocol Evaluation and Prototyping with Automated DEM Construction
+INFO:   [2026-04-23] Dynamical Regimes of Two Qubits Coupled through a Transmission Line
+INFO:   [2026-04-23] HEOM-in-Calibration-Loop: Exposing Non-Markovian Bath Signatures That Markovian Calibration Elides in Superconducting-Qubit Tune-Up
+INFO:   [2026-04-23] StabilizerBench: A Benchmark for AI-Assisted Quantum Error Correction Circuit Synthesis
 INFO: 
 Update log saved to /home/runner/work/quantum_hardware_systems/quantum_hardware_systems/data/update_log.json
-INFO: hardware_data.json last_updated set to 2026-04-20
+INFO: hardware_data.json last_updated set to 2026-04-27
 INFO: 
 README.md regenerated
