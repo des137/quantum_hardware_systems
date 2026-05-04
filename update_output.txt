@@ -31,10 +31,10 @@ INFO: Fetching Oxford Ionics (https://www.oxionics.com/)
 INFO: Fetched 25 company pages
 INFO: 
 --- Wikipedia ---
-INFO: Wikipedia text length: 43585 chars
+INFO: Wikipedia text length: 43319 chars
 INFO: 
 --- News feeds ---
-INFO: Fetched 20 news articles
+INFO: Fetched 10 news articles
 INFO: 
 --- ArXiv ---
 INFO: Fetched 30 arxiv papers
@@ -48,35 +48,30 @@ INFO:
 NOTE: These are heuristic detections. Review before applying. Update data/hardware_data.json manually or via PR review.
 INFO: 
 --- Recent quantum hardware news (for manual review) ---
-INFO:   [Mon, 27 Ap] Scientists Propose Early-Warning System for Quantum Supply Chain as China Tightens Minerals Grip
-INFO:   [Mon, 27 Ap] Quantum Security: Threats, Solutions, and the Race to Protect Data
-INFO:   [Mon, 27 Ap] QuantumCore Partners with Institute of Quantum Computing in $1.7 million Non-Dilutive Grant from NSERC
-INFO:   [Sat, 25 Ap] Quantropi Moves Toward Public Listing Through Mandeville Merger
-INFO:   [Sat, 25 Ap] Coinbase Advisers Warn Quantum Computing Will Crack Blockchain Encryption &#8212; And The Window to Prepare Is Narrowing
-INFO:   [Sat, 25 Ap] Podcast with Tom Darras, CEO and co-founder, Welinq
-INFO:   [Fri, 24 Ap] National Quantum Algorithm Center at the IQMP Announces Grand Challenges Awards
-INFO:   [Fri, 24 Ap] 15-Bit ECC Key Broken on Quantum Hardware Wins Q-Day Prize
-INFO:   [Fri, 24 Ap] Cisco Unveils Prototype to Link Quantum Computers Into a Network
-INFO:   [Fri, 24 Ap] The History of Quantum Computing: From Theory to Systems
-INFO:   [Sun, 26 Ap] Pennsylvania Launch Ecosystem-Wide &#8220;Keystone AI + Quantum Factory&#8221;
-INFO:   [Sat, 25 Ap] Quantinuum Has Submitted a Confidential S-1 Filing to the U.S. SEC for a Proposed Initial Public Offering (IPO) of their Common Stock
-INFO:   [Sat, 25 Ap] QuantumCore Secures $1.7M NSERC Grant to Advance Superconducting Amplifiers
-INFO:   [Sat, 25 Ap] Q-Day: Accelerated Timeline Across Wider Attack Surface &#8211; Executive Summary
-INFO:   [Fri, 24 Ap] IonQ and Q-CTRL Integrate Fire Opal for Native Quantum Optimization
+INFO:   [Mon, 04 Ma] &#8216;Hey. You. Get on Our Quantum Cloud&#8217;: IBM Celebrates a Decade of Its Quantum Cloud
+INFO:   [Sat, 02 Ma] IonQ CEO Says 2025 Marked Turning Point for Quantum Commercialization
+INFO:   [Sat, 02 Ma] PsiQuantum Appoints Lip-Bu Tan to Board of Directors
+INFO:   [Sat, 02 Ma] Liquid Instruments Expands with $50M Investment Round
+INFO:   [Sat, 02 Ma] Podcast with Joab Rosenberg, Partner, Deep33
+INFO:   [Fri, 01 Ma] Oxford Team Achieves First-ever ‘Quadsqueezing’ Quantum Interaction
+INFO:   [Fri, 01 Ma] Qruise Collaborates with Goethe University on NV Center Systems
+INFO:   [Fri, 01 Ma] What Is &#8220;Harvest Now, Decrypt Later&#8221; and Why Should You Care?
+INFO:   [Fri, 01 Ma] IBM and Dallara to Advance AI and Quantum-Powered Design for High-Performance Vehicles
+INFO:   [Fri, 01 Ma] U.S. Quantum Policy Bill Advances to Full House Consideration
 INFO: 
 --- Recent arxiv papers ---
-INFO:   [2026-04-24] Boundary-Aware Stabilizer Scheduling for Distributed Quantum Error Correction
-INFO:   [2026-04-23] Loss-biased fault-tolerant quantum error correction
-INFO:   [2026-04-23] High-performance cellular automaton decoders for quantum repetition and toric code
-INFO:   [2026-04-23] Deterministic generation of grid states with programmable nonlinear bosonic circuits
-INFO:   [2026-04-23] Near-Term Reduction in Nonlocal Gate Count from Distributed Logical Qubits
-INFO:   [2026-04-23] Pulse Shaping for Superconducting Qubits
-INFO:   [2026-04-23] LightStim: A Framework for QEC Protocol Evaluation and Prototyping with Automated DEM Construction
-INFO:   [2026-04-23] Dynamical Regimes of Two Qubits Coupled through a Transmission Line
-INFO:   [2026-04-23] HEOM-in-Calibration-Loop: Exposing Non-Markovian Bath Signatures That Markovian Calibration Elides in Superconducting-Qubit Tune-Up
-INFO:   [2026-04-23] StabilizerBench: A Benchmark for AI-Assisted Quantum Error Correction Circuit Synthesis
+INFO:   [2026-05-01] An Error-aware and Adaptive Method for the Estimation of Quantum Observables on Qudit-Based Quantum Computers
+INFO:   [2026-05-01] Learning Lindblad Dynamics of a Superconducting Quantum Processor
+INFO:   [2026-04-30] Branch-Resolved Characterization of Feed-Forward Error in Dynamic Teleportation via Classical Choi Shadows
+INFO:   [2026-04-30] An Analytical Approach to Design Space Exploration for Cavity-Mediated Quantum State Transfer in Multi-core Architectures
+INFO:   [2026-04-30] Magnonic Gottesman-Kitaev-Preskill states
+INFO:   [2026-04-30] Demonstration of Exponential Quantum Speedup with Constant-Depth Compiled Circuits for Simon's Problem
+INFO:   [2026-04-30] Quantum Anonymous Secret Sharing with Permutation Invariant Codes
+INFO:   [2026-04-29] High-fidelity iSWAP gate with Double Transmon Coupler
+INFO:   [2026-04-29] Non-Local Magic Resources for Fermionic Gaussian States
+INFO:   [2026-04-29] Digital Simulation of Non-Hermitian Knotted Bands on Quantum Hardware
 INFO: 
 Update log saved to /home/runner/work/quantum_hardware_systems/quantum_hardware_systems/data/update_log.json
-INFO: hardware_data.json last_updated set to 2026-04-27
+INFO: hardware_data.json last_updated set to 2026-05-04
 INFO: 
 README.md regenerated
