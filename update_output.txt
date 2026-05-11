@@ -31,13 +31,14 @@ INFO: Fetching Oxford Ionics (https://www.oxionics.com/)
 INFO: Fetched 25 company pages
 INFO: 
 --- Wikipedia ---
-INFO: Wikipedia text length: 43319 chars
+INFO: Wikipedia text length: 44344 chars
 INFO: 
 --- News feeds ---
 INFO: Fetched 10 news articles
 INFO: 
 --- ArXiv ---
-INFO: Fetched 30 arxiv papers
+WARNING: Failed to fetch http://export.arxiv.org/api/query?search_query=all:%22quantum%20processor%22+OR+all:%22qubit%20fidelity%22+OR+all:%22quantum%20error%20correction%22+OR+all:%22superconducting%20qubit%22&sortBy=submittedDate&sortOrder=descending&max_results=30: The read operation timed out
+INFO: Fetched 0 arxiv papers
 INFO: 
 --- Detecting changes ---
 INFO: 
@@ -48,30 +49,18 @@ INFO:
 NOTE: These are heuristic detections. Review before applying. Update data/hardware_data.json manually or via PR review.
 INFO: 
 --- Recent quantum hardware news (for manual review) ---
-INFO:   [Mon, 04 Ma] &#8216;Hey. You. Get on Our Quantum Cloud&#8217;: IBM Celebrates a Decade of Its Quantum Cloud
-INFO:   [Sat, 02 Ma] IonQ CEO Says 2025 Marked Turning Point for Quantum Commercialization
-INFO:   [Sat, 02 Ma] PsiQuantum Appoints Lip-Bu Tan to Board of Directors
-INFO:   [Sat, 02 Ma] Liquid Instruments Expands with $50M Investment Round
-INFO:   [Sat, 02 Ma] Podcast with Joab Rosenberg, Partner, Deep33
-INFO:   [Fri, 01 Ma] Oxford Team Achieves First-ever ‘Quadsqueezing’ Quantum Interaction
-INFO:   [Fri, 01 Ma] Qruise Collaborates with Goethe University on NV Center Systems
-INFO:   [Fri, 01 Ma] What Is &#8220;Harvest Now, Decrypt Later&#8221; and Why Should You Care?
-INFO:   [Fri, 01 Ma] IBM and Dallara to Advance AI and Quantum-Powered Design for High-Performance Vehicles
-INFO:   [Fri, 01 Ma] U.S. Quantum Policy Bill Advances to Full House Consideration
-INFO: 
---- Recent arxiv papers ---
-INFO:   [2026-05-01] An Error-aware and Adaptive Method for the Estimation of Quantum Observables on Qudit-Based Quantum Computers
-INFO:   [2026-05-01] Learning Lindblad Dynamics of a Superconducting Quantum Processor
-INFO:   [2026-04-30] Branch-Resolved Characterization of Feed-Forward Error in Dynamic Teleportation via Classical Choi Shadows
-INFO:   [2026-04-30] An Analytical Approach to Design Space Exploration for Cavity-Mediated Quantum State Transfer in Multi-core Architectures
-INFO:   [2026-04-30] Magnonic Gottesman-Kitaev-Preskill states
-INFO:   [2026-04-30] Demonstration of Exponential Quantum Speedup with Constant-Depth Compiled Circuits for Simon's Problem
-INFO:   [2026-04-30] Quantum Anonymous Secret Sharing with Permutation Invariant Codes
-INFO:   [2026-04-29] High-fidelity iSWAP gate with Double Transmon Coupler
-INFO:   [2026-04-29] Non-Local Magic Resources for Fermionic Gaussian States
-INFO:   [2026-04-29] Digital Simulation of Non-Hermitian Knotted Bands on Quantum Hardware
+INFO:   [Mon, 11 Ma] Guest Post: A Focus on The Quantum Computing Stack is Holding Commercialization Back
+INFO:   [Mon, 11 Ma] The King’s Foundation and FormationQ Launch &#8216;Harmonious Urban Growth&#8217; Programme to Help Cities Plan Sustainable Expansion Using Quantum Optimisation
+INFO:   [Sat, 09 Ma] SkyWater Technology Stockholders Approve Merger Agreement with IonQ
+INFO:   [Sat, 09 Ma] Podcast with Scott Aaronson, Professor of Computer Science, UT Austin
+INFO:   [Fri, 08 Ma] Honeywell Announces Quantinuum&#8217;s Filing of Registration Statement For IPO
+INFO:   [Fri, 08 Ma] China Claims First Dual-Core Neutral Atom Quantum Computer
+INFO:   [Fri, 08 Ma] What is Quantum Machine Learning (QML)?
+INFO:   [Fri, 08 Ma] The Cost of Waiting on Quantum Computing May Be Higher Than You Think, Researchers Tell Business Leaders
+INFO:   [Fri, 08 Ma] Graduate Ventures Backs Delft Quantum Startup FrostByte
+INFO:   [Fri, 08 Ma] Quantum Security Deadlines are Here &#8211; What Happens Next?
 INFO: 
 Update log saved to /home/runner/work/quantum_hardware_systems/quantum_hardware_systems/data/update_log.json
-INFO: hardware_data.json last_updated set to 2026-05-04
+INFO: hardware_data.json last_updated set to 2026-05-11
 INFO: 
 README.md regenerated
