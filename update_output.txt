@@ -31,13 +31,13 @@ INFO: Fetching Oxford Ionics (https://www.oxionics.com/)
 INFO: Fetched 25 company pages
 INFO: 
 --- Wikipedia ---
-INFO: Wikipedia text length: 44344 chars
+INFO: Wikipedia text length: 44389 chars
 INFO: 
 --- News feeds ---
 INFO: Fetched 10 news articles
 INFO: 
 --- ArXiv ---
-WARNING: Failed to fetch http://export.arxiv.org/api/query?search_query=all:%22quantum%20processor%22+OR+all:%22qubit%20fidelity%22+OR+all:%22quantum%20error%20correction%22+OR+all:%22superconducting%20qubit%22&sortBy=submittedDate&sortOrder=descending&max_results=30: The read operation timed out
+WARNING: Failed to fetch http://export.arxiv.org/api/query?search_query=all:%22quantum%20processor%22+OR+all:%22qubit%20fidelity%22+OR+all:%22quantum%20error%20correction%22+OR+all:%22superconducting%20qubit%22&sortBy=submittedDate&sortOrder=descending&max_results=30: HTTP Error 429: Unknown Error
 INFO: Fetched 0 arxiv papers
 INFO: 
 --- Detecting changes ---
@@ -49,18 +49,18 @@ INFO:
 NOTE: These are heuristic detections. Review before applying. Update data/hardware_data.json manually or via PR review.
 INFO: 
 --- Recent quantum hardware news (for manual review) ---
-INFO:   [Mon, 11 Ma] Guest Post: A Focus on The Quantum Computing Stack is Holding Commercialization Back
-INFO:   [Mon, 11 Ma] The King’s Foundation and FormationQ Launch &#8216;Harmonious Urban Growth&#8217; Programme to Help Cities Plan Sustainable Expansion Using Quantum Optimisation
-INFO:   [Sat, 09 Ma] SkyWater Technology Stockholders Approve Merger Agreement with IonQ
-INFO:   [Sat, 09 Ma] Podcast with Scott Aaronson, Professor of Computer Science, UT Austin
-INFO:   [Fri, 08 Ma] Honeywell Announces Quantinuum&#8217;s Filing of Registration Statement For IPO
-INFO:   [Fri, 08 Ma] China Claims First Dual-Core Neutral Atom Quantum Computer
-INFO:   [Fri, 08 Ma] What is Quantum Machine Learning (QML)?
-INFO:   [Fri, 08 Ma] The Cost of Waiting on Quantum Computing May Be Higher Than You Think, Researchers Tell Business Leaders
-INFO:   [Fri, 08 Ma] Graduate Ventures Backs Delft Quantum Startup FrostByte
-INFO:   [Fri, 08 Ma] Quantum Security Deadlines are Here &#8211; What Happens Next?
+INFO:   [Mon, 25 Ma] Quantum Security Venture Pramatra Space Raises Pre-Seed Funding
+INFO:   [Mon, 25 Ma] AI-Run Robot Lab Creates Graphene And Builds Quantum Devices
+INFO:   [Sun, 24 Ma] Quantum Midi Posse Reports 96-Qubit Structured-Output Benchmark on IBM Hardware
+INFO:   [Sat, 23 Ma] EPB Partners with UTC to Expand Quantum Workforce Development and Economic impact
+INFO:   [Sat, 23 Ma] Guest Post: Why IP Strategy Matters Early in Quantum Computing
+INFO:   [Sat, 23 Ma] Canada Opens $5.5 Million Quantum Networking Challenge to Advance Quantum Repeaters
+INFO:   [Fri, 22 Ma] Top 20 Quantum Computing Masters &#038; Ph.D. Degree Programs in 2026
+INFO:   [Fri, 22 Ma] Pasqal Demonstrates Logical Qubits Outperform Physical Qubits Solving Differential Equations
+INFO:   [Fri, 22 Ma] Alice &#038; Bob Announces Investment From NVIDIA&#8217;s VC Arm in Series B Extension
+INFO:   [Fri, 22 Ma] Quantum Dynamics Advance Overturns Claim of ‘Quantum Supremacy,’ Opens New Research Directions
 INFO: 
 Update log saved to /home/runner/work/quantum_hardware_systems/quantum_hardware_systems/data/update_log.json
-INFO: hardware_data.json last_updated set to 2026-05-11
+INFO: hardware_data.json last_updated set to 2026-05-25
 INFO: 
 README.md regenerated
