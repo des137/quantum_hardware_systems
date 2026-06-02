@@ -37,8 +37,7 @@ INFO:
 INFO: Fetched 10 news articles
 INFO: 
 --- ArXiv ---
-WARNING: Failed to fetch http://export.arxiv.org/api/query?search_query=all:%22quantum%20processor%22+OR+all:%22qubit%20fidelity%22+OR+all:%22quantum%20error%20correction%22+OR+all:%22superconducting%20qubit%22&sortBy=submittedDate&sortOrder=descending&max_results=30: HTTP Error 429: Unknown Error
-INFO: Fetched 0 arxiv papers
+INFO: Fetched 30 arxiv papers
 INFO: 
 --- Detecting changes ---
 INFO: 
@@ -49,18 +48,30 @@ INFO:
 NOTE: These are heuristic detections. Review before applying. Update data/hardware_data.json manually or via PR review.
 INFO: 
 --- Recent quantum hardware news (for manual review) ---
-INFO:   [Mon, 25 Ma] Quantum Security Venture Pramatra Space Raises Pre-Seed Funding
-INFO:   [Mon, 25 Ma] AI-Run Robot Lab Creates Graphene And Builds Quantum Devices
-INFO:   [Sun, 24 Ma] Quantum Midi Posse Reports 96-Qubit Structured-Output Benchmark on IBM Hardware
-INFO:   [Sat, 23 Ma] EPB Partners with UTC to Expand Quantum Workforce Development and Economic impact
-INFO:   [Sat, 23 Ma] Guest Post: Why IP Strategy Matters Early in Quantum Computing
-INFO:   [Sat, 23 Ma] Canada Opens $5.5 Million Quantum Networking Challenge to Advance Quantum Repeaters
-INFO:   [Fri, 22 Ma] Top 20 Quantum Computing Masters &#038; Ph.D. Degree Programs in 2026
-INFO:   [Fri, 22 Ma] Pasqal Demonstrates Logical Qubits Outperform Physical Qubits Solving Differential Equations
-INFO:   [Fri, 22 Ma] Alice &#038; Bob Announces Investment From NVIDIA&#8217;s VC Arm in Series B Extension
-INFO:   [Fri, 22 Ma] Quantum Dynamics Advance Overturns Claim of ‘Quantum Supremacy,’ Opens New Research Directions
+INFO:   [Mon, 01 Ju] Study: Quantum Sensor May be Able to Identify New Type of Magnetism
+INFO:   [Mon, 01 Ju] New Photonics Process Embeds Alignment Features Directly Into Glass Components
+INFO:   [Mon, 01 Ju] SEALSQ Deepens Partnership with Quantum Computing Startup EeroQ
+INFO:   [Sun, 31 Ma] French National Quantum Update: May 2026
+INFO:   [Sat, 30 Ma] Open-Source Quantum Community Prepares For Sixth Annual unitaryHack
+INFO:   [Fri, 29 Ma] UT Launches Knoxville Quantum Accelerator To Advance Tennessee&#8217;s Future
+INFO:   [Fri, 29 Ma] Qubic Announces Sale of Cryogenic Amplifiers to Quantum Machines
+INFO:   [Fri, 29 Ma] Massachusetts Invests $25 Million in MIT Quantum Lab
+INFO:   [Fri, 29 Ma] Foxconn Expects Quantum Commercialization in 2030
+INFO:   [Fri, 29 Ma] Quandela Adds Industry Veterans to Leadership And Governance Teams
+INFO: 
+--- Recent arxiv papers ---
+INFO:   [2026-05-29] Intrinsic locality dimension of quantum codes
+INFO:   [2026-05-29] Real-Time Quantum Error Correction System Stack: Architecture, Algorithms, and Engineering Practice
+INFO:   [2026-05-28] A Denser Planar Surface Code
+INFO:   [2026-05-28] Non-Abelian Mixer for QAOA on Hybrid Oscillator-Qubit Quantum Processors
+INFO:   [2026-05-28] Programmable Dissipation via Partial Quantum Error Correction
+INFO:   [2026-05-28] A comparison of different master equations for driven-dissipative dynamics in composite quantum systems: Dispersive readout in structured electromagnetic environments
+INFO:   [2026-05-28] Quantum Networks Using Color Defects in Diamond: Principles, Progress, and Perspectives
+INFO:   [2026-05-28] Non-Clifford Crosstalk Noise in Surface Codes Using Hybrid Stabilizer-Tensor Network Methods
+INFO:   [2026-05-27] Quantum error correction and fault tolerance: A comprehensive tutorial
+INFO:   [2026-05-27] Prime Number Identification Demonstrated with Quantum Processors Using a New Rescaling-Based Noise Mitigation Technique
 INFO: 
 Update log saved to /home/runner/work/quantum_hardware_systems/quantum_hardware_systems/data/update_log.json
-INFO: hardware_data.json last_updated set to 2026-05-25
+INFO: hardware_data.json last_updated set to 2026-06-01
 INFO: 
 README.md regenerated
