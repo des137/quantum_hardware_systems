@@ -24,11 +24,12 @@ INFO: Fetching QuiX (https://www.quixquantum.com/)
 INFO: Fetching SQC (https://www.sqc.com.au/)
 INFO: Fetching Photonic (https://photonic.com/)
 INFO: Fetching Quantum Motion (https://quantummotion.com/)
+WARNING: Failed to fetch https://quantummotion.com/: HTTP Error 403: Forbidden
 INFO: Fetching Q-Brilliance (https://qbrilliance.com/)
 INFO: Fetching planqc (https://planqc.eu/)
 INFO: Fetching SpinQ (https://www.spinquanta.com/)
 INFO: Fetching Oxford Ionics (https://www.oxionics.com/)
-INFO: Fetched 25 company pages
+INFO: Fetched 24 company pages
 INFO: 
 --- Wikipedia ---
 INFO: Wikipedia text length: 44389 chars
@@ -48,30 +49,30 @@ INFO:
 NOTE: These are heuristic detections. Review before applying. Update data/hardware_data.json manually or via PR review.
 INFO: 
 --- Recent quantum hardware news (for manual review) ---
-INFO:   [Mon, 01 Ju] Study: Quantum Sensor May be Able to Identify New Type of Magnetism
-INFO:   [Mon, 01 Ju] New Photonics Process Embeds Alignment Features Directly Into Glass Components
-INFO:   [Mon, 01 Ju] SEALSQ Deepens Partnership with Quantum Computing Startup EeroQ
-INFO:   [Sun, 31 Ma] French National Quantum Update: May 2026
-INFO:   [Sat, 30 Ma] Open-Source Quantum Community Prepares For Sixth Annual unitaryHack
-INFO:   [Fri, 29 Ma] UT Launches Knoxville Quantum Accelerator To Advance Tennessee&#8217;s Future
-INFO:   [Fri, 29 Ma] Qubic Announces Sale of Cryogenic Amplifiers to Quantum Machines
-INFO:   [Fri, 29 Ma] Massachusetts Invests $25 Million in MIT Quantum Lab
-INFO:   [Fri, 29 Ma] Foxconn Expects Quantum Commercialization in 2030
-INFO:   [Fri, 29 Ma] Quandela Adds Industry Veterans to Leadership And Governance Teams
+INFO:   [Mon, 08 Ju] Why Quantum Computing Companies Are Turning to SPACs
+INFO:   [Fri, 05 Ju] SEALSQ Broadens Quantum Computing and Post-Quantum Security Strategy
+INFO:   [Fri, 05 Ju] The Companies Building Quantum Computing Chips in 2026
+INFO:   [Fri, 05 Ju] Scientists Identify the Origin of Noise in Spin Qubit Quantum Processors
+INFO:   [Fri, 05 Ju] Chinese Scientists Demonstrate Quantum Random Access Memory Architecture Aimed at Solving Data Bottleneck
+INFO:   [Fri, 05 Ju] Classiq and UC Chile Launch Quantum Computing Research for Biomedical Imaging
+INFO:   [Fri, 05 Ju] Quantinuum and Mitsubishi Electric Sign Quantum Computing MOU
+INFO:   [Fri, 05 Ju] OQC, JPMorganChase and AMD Commence Research Collaboration to Develop New Quantum-AI Platform in London
+INFO:   [Thu, 04 Ju] UK Risks Repeating Semiconductor and AI Mistakes Unless Government Acts Now on Quantum, Warns Cross-Party Parliamentary Group
+INFO:   [Thu, 04 Ju] Quantum X Labs Adds Oren Raz to Scientific Advisory Board
 INFO: 
 --- Recent arxiv papers ---
-INFO:   [2026-05-29] Intrinsic locality dimension of quantum codes
-INFO:   [2026-05-29] Real-Time Quantum Error Correction System Stack: Architecture, Algorithms, and Engineering Practice
-INFO:   [2026-05-28] A Denser Planar Surface Code
-INFO:   [2026-05-28] Non-Abelian Mixer for QAOA on Hybrid Oscillator-Qubit Quantum Processors
-INFO:   [2026-05-28] Programmable Dissipation via Partial Quantum Error Correction
-INFO:   [2026-05-28] A comparison of different master equations for driven-dissipative dynamics in composite quantum systems: Dispersive readout in structured electromagnetic environments
-INFO:   [2026-05-28] Quantum Networks Using Color Defects in Diamond: Principles, Progress, and Perspectives
-INFO:   [2026-05-28] Non-Clifford Crosstalk Noise in Surface Codes Using Hybrid Stabilizer-Tensor Network Methods
-INFO:   [2026-05-27] Quantum error correction and fault tolerance: A comprehensive tutorial
-INFO:   [2026-05-27] Prime Number Identification Demonstrated with Quantum Processors Using a New Rescaling-Based Noise Mitigation Technique
+INFO:   [2026-06-05] Coherent versus stochastic error injection on a repetition-code logical qubit in superconducting hardware
+INFO:   [2026-06-05] Suppression of Quasiparticle Poisoning to $10^{-11}$ Levels in Superconducting Qubits via Infrared Shielding
+INFO:   [2026-06-04] Demystifying Objectivity with Operator Algebra Quantum Error Correction
+INFO:   [2026-06-04] Breakeven demonstration of quantum low-density parity-check codes
+INFO:   [2026-06-04] A framework for low-overhead quantum fault tolerance via spacetime lifting
+INFO:   [2026-06-04] Symmetry-adapted qubit encoding with complete active space and Bravyi--Kitaev mapping for quantum chemistry on a quantum computer
+INFO:   [2026-06-04] Gauging the Spacetime Code
+INFO:   [2026-06-03] Measurement-induced state transitions in multi-qubit transmon processors
+INFO:   [2026-06-03] Digital Quantum Reservoir Computing for ATM Time Series Prediction
+INFO:   [2026-06-03] Extremely slow scaling of minimal Hamming distance in quantum sampling data
 INFO: 
 Update log saved to /home/runner/work/quantum_hardware_systems/quantum_hardware_systems/data/update_log.json
-INFO: hardware_data.json last_updated set to 2026-06-01
+INFO: hardware_data.json last_updated set to 2026-06-08
 INFO: 
 README.md regenerated
