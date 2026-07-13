@@ -31,7 +31,7 @@ INFO: Fetching Oxford Ionics (https://www.oxionics.com/)
 INFO: Fetched 25 company pages
 INFO: 
 --- Wikipedia ---
-INFO: Wikipedia text length: 44389 chars
+INFO: Wikipedia text length: 44388 chars
 INFO: 
 --- News feeds ---
 INFO: Fetched 10 news articles
@@ -48,30 +48,30 @@ INFO:
 NOTE: These are heuristic detections. Review before applying. Update data/hardware_data.json manually or via PR review.
 INFO: 
 --- Recent quantum hardware news (for manual review) ---
-INFO:   [Mon, 15 Ju] QNu Labs Takes India&#8217;s Quantum Cybersecurity to Bharat Innovates 2026, Signs Research Deal with Eindhoven University of Technology
-INFO:   [Sun, 14 Ju] Israel Innovation Authority And Israeli DDR&#038;D (MAFAT) Launch NIS 150 Million Initiative to Advance Israel’s Next Generation of Photonic Chips
-INFO:   [Sat, 13 Ju] Microsoft And Quantinuum Report on Major Gains in Quantum Error Correction
-INFO:   [Sat, 13 Ju] What Quantum Can Learn from the Data Center Playbook
-INFO:   [Sat, 13 Ju] Quantum Threat to Crypto Is Not Here Yet, but Coinbase Advisory Board Says the Time to Prepare Is Now
-INFO:   [Fri, 12 Ju] BQP Appoints Craig Marcinkowski to Board of Directors
-INFO:   [Fri, 12 Ju] SEALSQ Advances Satellite-Based Post-Quantum Security Platform
-INFO:   [Fri, 12 Ju] IQM Appoints Barbara Venneman to Board of Directors
-INFO:   [Fri, 12 Ju] HKU Engineering Develops &#8216;Brain-Like&#8217; Chip to Advance Quantum Computing And Deep-Space Exploration
-INFO:   [Fri, 12 Ju] ORCA Computing Joins Digital Realty Innovation Lab in London
+INFO:   [Mon, 13 Ju] Israeli Quantum Startups Eye Wall Street as SPAC Interest Accelerates
+INFO:   [Sat, 11 Ju] Why Quantum Computing Needs Strong Ecosystems to Scale
+INFO:   [Fri, 10 Ju] Top Diamond NV-Centre Quantum Computing Companies in 2026
+INFO:   [Fri, 10 Ju] QC Design Publishes Plaquette Framework for Fault-Tolerant Quantum Computer Design
+INFO:   [Fri, 10 Ju] NordLocker Prepares Encrypted Cloud Storage for the Post-Quantum Era
+INFO:   [Fri, 10 Ju] BTQ Technologies and ICTK Complete Design of Quantum-Secure QCIM Security Chip
+INFO:   [Fri, 10 Ju] SEALSQ and Quobly Sign $5 Million Agreement to Secure Silicon Quantum Computers
+INFO:   [Fri, 10 Ju] Google Study Shows Quantum Computer Can Learn From Its Own Errors While It Computes
+INFO:   [Fri, 10 Ju] Google Seeks University Proposals for Early Fault-Tolerant Quantum Computing
+INFO:   [Fri, 10 Ju] QuTech Releases Tuna-17 Superconducting Quantum Computer Through Quantum Inspire
 INFO: 
 --- Recent arxiv papers ---
-INFO:   [2026-06-12] Quasilinear Equivalence Checking for Detector Error Models
-INFO:   [2026-06-12] Quantum gates with parametrically driven multi-qubit couplers
-INFO:   [2026-06-12] Physics-Informed Variational Quantum Classifier for Phase Detection in Strongly Correlated Matter
-INFO:   [2026-06-12] Sensitivity of polaron-molecule observables to MDR/GUP-like ultraviolet deformations at low energies via quantum computing
-INFO:   [2026-06-12] All about quantum error correction: distillation, mitigation, self-correction and beyond
-INFO:   [2026-06-11] Generalized two-qubit Hamiltonian for Projective Quantum Feature Maps
-INFO:   [2026-06-11] Approximate quantum error correction theory of non-isometric codes
-INFO:   [2026-06-11] Quantum Logic Codes: Complete Transversal Logical Clifford Instruction Sets for High-Rate Stabilizer Quantum Error Correcting Codes
-INFO:   [2026-06-11] Towards a Control interpretation of Quantum Advantage
-INFO:   [2026-06-11] QuBE/Qubex: an integrated hardware-software system for superconducting qubit experiments with broadband control
+INFO:   [2026-07-10] Silicon-Germanium Heterostructures with Enhanced Valley Splitting for Spin Qubits
+INFO:   [2026-07-10] Superconducting singlet-triplet qubits
+INFO:   [2026-07-10] Action-Factored Multi-Agent Reinforcement Learning for Scalable Quantum Device Tuning
+INFO:   [2026-07-10] Simulation of Lindbladian dynamics via adaptive variational quantum trajectory compression
+INFO:   [2026-07-10] Shadow-Based Noise Fingerprinting of Simulated Quantum Noise Models
+INFO:   [2026-07-09] Probing two-spin entanglement at quantum criticality on a quantum processor
+INFO:   [2026-07-09] A diagrammatic field theory of quantum error correction
+INFO:   [2026-07-09] Fermion-mediated Casimir effect on mesoscopic rings implementing non-Clifford SWAP$^α$ gates
+INFO:   [2026-07-09] Plaquette: A hardware-aware design platform for fault-tolerant quantum computers
+INFO:   [2026-07-09] Comment on "Beyond-classical computation in quantum simulation"
 INFO: 
 Update log saved to /home/runner/work/quantum_hardware_systems/quantum_hardware_systems/data/update_log.json
-INFO: hardware_data.json last_updated set to 2026-06-15
+INFO: hardware_data.json last_updated set to 2026-07-13
 INFO: 
 README.md regenerated
