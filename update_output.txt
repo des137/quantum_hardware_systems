@@ -24,14 +24,15 @@ INFO: Fetching QuiX (https://www.quixquantum.com/)
 INFO: Fetching SQC (https://www.sqc.com.au/)
 INFO: Fetching Photonic (https://photonic.com/)
 INFO: Fetching Quantum Motion (https://quantummotion.com/)
+WARNING: Failed to fetch https://quantummotion.com/: HTTP Error 403: Forbidden
 INFO: Fetching Q-Brilliance (https://qbrilliance.com/)
 INFO: Fetching planqc (https://planqc.eu/)
 INFO: Fetching SpinQ (https://www.spinquanta.com/)
 INFO: Fetching Oxford Ionics (https://www.oxionics.com/)
-INFO: Fetched 25 company pages
+INFO: Fetched 24 company pages
 INFO: 
 --- Wikipedia ---
-INFO: Wikipedia text length: 44388 chars
+INFO: Wikipedia text length: 45100 chars
 INFO: 
 --- News feeds ---
 INFO: Fetched 10 news articles
@@ -48,30 +49,30 @@ INFO:
 NOTE: These are heuristic detections. Review before applying. Update data/hardware_data.json manually or via PR review.
 INFO: 
 --- Recent quantum hardware news (for manual review) ---
-INFO:   [Mon, 13 Ju] Israeli Quantum Startups Eye Wall Street as SPAC Interest Accelerates
-INFO:   [Sat, 11 Ju] Why Quantum Computing Needs Strong Ecosystems to Scale
-INFO:   [Fri, 10 Ju] Top Diamond NV-Centre Quantum Computing Companies in 2026
-INFO:   [Fri, 10 Ju] QC Design Publishes Plaquette Framework for Fault-Tolerant Quantum Computer Design
-INFO:   [Fri, 10 Ju] NordLocker Prepares Encrypted Cloud Storage for the Post-Quantum Era
-INFO:   [Fri, 10 Ju] BTQ Technologies and ICTK Complete Design of Quantum-Secure QCIM Security Chip
-INFO:   [Fri, 10 Ju] SEALSQ and Quobly Sign $5 Million Agreement to Secure Silicon Quantum Computers
-INFO:   [Fri, 10 Ju] Google Study Shows Quantum Computer Can Learn From Its Own Errors While It Computes
-INFO:   [Fri, 10 Ju] Google Seeks University Proposals for Early Fault-Tolerant Quantum Computing
-INFO:   [Fri, 10 Ju] QuTech Releases Tuna-17 Superconducting Quantum Computer Through Quantum Inspire
+INFO:   [Mon, 24 Au] Microsoft’s Skala AI Model Joins CP2K to Improve Quantum Mechanical Simulations
+INFO:   [Mon, 24 Au] Japan’s Full-Stack Neutral-Atom Quantum Computer Is Operational
+INFO:   [Sun, 23 Au] Brookhaven And Stony Brook Researchers Demonstrate &#8216;Wireless&#8217; Capability for Quantum Network
+INFO:   [Sat, 22 Au] Lionel Martellini (EDHEC Quantum Institute): Why business leaders need quantum awareness, not quantum washing
+INFO:   [Fri, 21 Au] What Is NISQ Quantum Computing: The Current Era of Quantum Machines
+INFO:   [Fri, 21 Au] Quantum X Labs Tests AI Quantum Error Decoder on Google Hardware Dataset
+INFO:   [Fri, 21 Au] Berkeley Lab-Led Project Secures Funding to Develop a Transportable Muon Imager
+INFO:   [Fri, 21 Au] ORNL Researcher Advances Particle Detection for the Electron-Ion Collider
+INFO:   [Fri, 21 Au] Q2B Copenhagen 2026 to Focus on Quantum Technology and Commercial Adoption
+INFO:   [Fri, 21 Au] Crypto4A QASM Module Achieves FIPS 140-3 Level 3 Validation
 INFO: 
 --- Recent arxiv papers ---
-INFO:   [2026-07-10] Silicon-Germanium Heterostructures with Enhanced Valley Splitting for Spin Qubits
-INFO:   [2026-07-10] Superconducting singlet-triplet qubits
-INFO:   [2026-07-10] Action-Factored Multi-Agent Reinforcement Learning for Scalable Quantum Device Tuning
-INFO:   [2026-07-10] Simulation of Lindbladian dynamics via adaptive variational quantum trajectory compression
-INFO:   [2026-07-10] Shadow-Based Noise Fingerprinting of Simulated Quantum Noise Models
-INFO:   [2026-07-09] Probing two-spin entanglement at quantum criticality on a quantum processor
-INFO:   [2026-07-09] A diagrammatic field theory of quantum error correction
-INFO:   [2026-07-09] Fermion-mediated Casimir effect on mesoscopic rings implementing non-Clifford SWAP$^α$ gates
-INFO:   [2026-07-09] Plaquette: A hardware-aware design platform for fault-tolerant quantum computers
-INFO:   [2026-07-09] Comment on "Beyond-classical computation in quantum simulation"
+INFO:   [2026-08-21] When More Becomes Less: Topology-Reversed Three-Qubit Gate Performance on IBM Quantum Processors
+INFO:   [2026-08-21] A Classification of Translation-Invariant Quantum Codes in Any Dimension
+INFO:   [2026-08-21] Differentiable high-fidelity vectorial propagator
+INFO:   [2026-08-21] Hybrid dynamical decoupling and coherent driving for high-fidelity nuclear-spin control in diamond
+INFO:   [2026-08-21] Quantum Zeno and Anti-Zeno Responses: Universal Spectral Criterion for Measurement-Induced Decay
+INFO:   [2026-08-20] To Scale Up or To Scale Out: Evaluating Space-Time Costs of Compiled Logical Circuits on Modular Superconducting Quantum Processors
+INFO:   [2026-08-20] Practical Error Suppression and Mitigation for Reliable Quantum Computing
+INFO:   [2026-08-20] Large Scale Entanglement Structure Detection in 100-Qubit Systems via Local Joint Measurements
+INFO:   [2026-08-20] Architecture and Compilation Co-Design for High-Rate Quantum Product Codes on Neutral Atom Arrays
+INFO:   [2026-08-20] Shadow models of a quantum model for cloud cover and the influence of finite sampling noise
 INFO: 
 Update log saved to /home/runner/work/quantum_hardware_systems/quantum_hardware_systems/data/update_log.json
-INFO: hardware_data.json last_updated set to 2026-07-13
+INFO: hardware_data.json last_updated set to 2026-08-24
 INFO: 
 README.md regenerated
