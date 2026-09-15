@@ -24,12 +24,11 @@ INFO: Fetching QuiX (https://www.quixquantum.com/)
 INFO: Fetching SQC (https://www.sqc.com.au/)
 INFO: Fetching Photonic (https://photonic.com/)
 INFO: Fetching Quantum Motion (https://quantummotion.com/)
-WARNING: Failed to fetch https://quantummotion.com/: HTTP Error 403: Forbidden
 INFO: Fetching Q-Brilliance (https://qbrilliance.com/)
 INFO: Fetching planqc (https://planqc.eu/)
 INFO: Fetching SpinQ (https://www.spinquanta.com/)
 INFO: Fetching Oxford Ionics (https://www.oxionics.com/)
-INFO: Fetched 24 company pages
+INFO: Fetched 25 company pages
 INFO: 
 --- Wikipedia ---
 INFO: Wikipedia text length: 45100 chars
@@ -38,7 +37,8 @@ INFO:
 INFO: Fetched 10 news articles
 INFO: 
 --- ArXiv ---
-INFO: Fetched 30 arxiv papers
+WARNING: Failed to fetch http://export.arxiv.org/api/query?search_query=all:%22quantum%20processor%22+OR+all:%22qubit%20fidelity%22+OR+all:%22quantum%20error%20correction%22+OR+all:%22superconducting%20qubit%22&sortBy=submittedDate&sortOrder=descending&max_results=30: HTTP Error 429: Too Many Requests
+INFO: Fetched 0 arxiv papers
 INFO: 
 --- Detecting changes ---
 INFO: 
@@ -49,30 +49,18 @@ INFO:
 NOTE: These are heuristic detections. Review before applying. Update data/hardware_data.json manually or via PR review.
 INFO: 
 --- Recent quantum hardware news (for manual review) ---
-INFO:   [Mon, 24 Au] Microsoft’s Skala AI Model Joins CP2K to Improve Quantum Mechanical Simulations
-INFO:   [Mon, 24 Au] Japan’s Full-Stack Neutral-Atom Quantum Computer Is Operational
-INFO:   [Sun, 23 Au] Brookhaven And Stony Brook Researchers Demonstrate &#8216;Wireless&#8217; Capability for Quantum Network
-INFO:   [Sat, 22 Au] Lionel Martellini (EDHEC Quantum Institute): Why business leaders need quantum awareness, not quantum washing
-INFO:   [Fri, 21 Au] What Is NISQ Quantum Computing: The Current Era of Quantum Machines
-INFO:   [Fri, 21 Au] Quantum X Labs Tests AI Quantum Error Decoder on Google Hardware Dataset
-INFO:   [Fri, 21 Au] Berkeley Lab-Led Project Secures Funding to Develop a Transportable Muon Imager
-INFO:   [Fri, 21 Au] ORNL Researcher Advances Particle Detection for the Electron-Ion Collider
-INFO:   [Fri, 21 Au] Q2B Copenhagen 2026 to Focus on Quantum Technology and Commercial Adoption
-INFO:   [Fri, 21 Au] Crypto4A QASM Module Achieves FIPS 140-3 Level 3 Validation
-INFO: 
---- Recent arxiv papers ---
-INFO:   [2026-08-21] When More Becomes Less: Topology-Reversed Three-Qubit Gate Performance on IBM Quantum Processors
-INFO:   [2026-08-21] A Classification of Translation-Invariant Quantum Codes in Any Dimension
-INFO:   [2026-08-21] Differentiable high-fidelity vectorial propagator
-INFO:   [2026-08-21] Hybrid dynamical decoupling and coherent driving for high-fidelity nuclear-spin control in diamond
-INFO:   [2026-08-21] Quantum Zeno and Anti-Zeno Responses: Universal Spectral Criterion for Measurement-Induced Decay
-INFO:   [2026-08-20] To Scale Up or To Scale Out: Evaluating Space-Time Costs of Compiled Logical Circuits on Modular Superconducting Quantum Processors
-INFO:   [2026-08-20] Practical Error Suppression and Mitigation for Reliable Quantum Computing
-INFO:   [2026-08-20] Large Scale Entanglement Structure Detection in 100-Qubit Systems via Local Joint Measurements
-INFO:   [2026-08-20] Architecture and Compilation Co-Design for High-Rate Quantum Product Codes on Neutral Atom Arrays
-INFO:   [2026-08-20] Shadow models of a quantum model for cloud cover and the influence of finite sampling noise
+INFO:   [Mon, 14 Se] Fortaegis Raises $50 Million to Commercialize Chip-Based Security Technology
+INFO:   [Sat, 12 Se] Klea Dhmitri (Hamamatsu): Photonics as the hidden backbone of quantum hardware scaling
+INFO:   [Fri, 11 Se] SEALSQ Reports 131% Revenue Growth in H1 2026
+INFO:   [Fri, 11 Se] Stevens Researchers Take Step Toward More Precise, Practical Quantum Technologies
+INFO:   [Fri, 11 Se] The Quantum Insider Launches Datasets, Analyst-Verified Quantum Market Information
+INFO:   [Fri, 11 Se] Bull Selected to Modernize Spain’s National Weather Forecasting Infrastructure
+INFO:   [Fri, 11 Se] Quantum Cybersecurity Explained: Preparing for Quantum Computing
+INFO:   [Fri, 11 Se] Qubic Secures $1.5 Million Canadian Government Contract for Cryogenic Amplifiers
+INFO:   [Fri, 11 Se] BWT Alpine and SEALSQ Explore Quantum-Classical Simulation for Formula One
+INFO:   [Fri, 11 Se] QClairvoyance and Samgnya Sign MoU on Quantum Technology Research
 INFO: 
 Update log saved to /home/runner/work/quantum_hardware_systems/quantum_hardware_systems/data/update_log.json
-INFO: hardware_data.json last_updated set to 2026-08-24
+INFO: hardware_data.json last_updated set to 2026-09-14
 INFO: 
 README.md regenerated
