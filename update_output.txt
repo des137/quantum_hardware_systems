@@ -38,8 +38,7 @@ INFO:
 INFO: Fetched 10 news articles
 INFO: 
 --- ArXiv ---
-WARNING: Failed to fetch http://export.arxiv.org/api/query?search_query=all:%22quantum%20processor%22+OR+all:%22qubit%20fidelity%22+OR+all:%22quantum%20error%20correction%22+OR+all:%22superconducting%20qubit%22&sortBy=submittedDate&sortOrder=descending&max_results=30: HTTP Error 406: Not Acceptable
-INFO: Fetched 0 arxiv papers
+INFO: Fetched 30 arxiv papers
 INFO: 
 --- Detecting changes ---
 INFO: 
@@ -50,18 +49,30 @@ INFO:
 NOTE: These are heuristic detections. Review before applying. Update data/hardware_data.json manually or via PR review.
 INFO: 
 --- Recent quantum hardware news (for manual review) ---
-INFO:   [Mon, 28 Se] Cosmic Lockdown: How The Environment Can Isolate Quantum Fields
-INFO:   [Sat, 26 Se] Sebastian Hassinger (The New Quantum Era): why neutral atoms lead the qubit race for now
-INFO:   [Sat, 26 Se] MANA Reveals Atomic-Scale Rails for Guiding Superconducting Vortices
-INFO:   [Fri, 25 Se] Fairfax County Schools Plans Quantum Computer Program at High School
-INFO:   [Fri, 25 Se] Creotech Quantum Prepares QKD System for Commercialization
-INFO:   [Fri, 25 Se] Guest Post: Quantum Investment May Start With Post-Quantum Security
-INFO:   [Fri, 25 Se] DRDO Partners With Zero mK India on 20 mK Quantum Refrigerator
-INFO:   [Fri, 25 Se] China’s Qingxing Raises Nearly 100 Million Yuan to Develop Quantum-Inspired AI
-INFO:   [Fri, 25 Se] CGI Federal, DLA and UT Knoxville Study Quantum Computing for Logistics
-INFO:   [Fri, 25 Se] Chinese Scientists Say Compact Quantum Magnetometer Tracks Hidden Targets in Field Tests
+INFO:   [Mon, 05 Oc] QNu Labs, BISAG-N and IIT Gandhinagar Demonstrate 5 km-Scale Free-Space QKD Link
+INFO:   [Mon, 05 Oc] Three-Dimensional Light Fields Could Help to Control Electrons
+INFO:   [Sat, 03 Oc] IBM Expands AI and Quantum Research With IIT Bombay and IISc
+INFO:   [Sat, 03 Oc] Helmut Katzgraber (55North): Why materials simulation beats optimization for near-term quantum
+INFO:   [Fri, 02 Oc] Quantum in Business Conference Highlights Commercial Quantum Applications
+INFO:   [Fri, 02 Oc] QEst Hack Invites Participants to Test Quantum Algorithms on Real Business Problems
+INFO:   [Fri, 02 Oc] New Method Generates Photons That Are Virtually Indistinguishable
+INFO:   [Fri, 02 Oc] SQC and Schneider Electric Advance Quantum-Enhanced Energy Forecasting
+INFO:   [Fri, 02 Oc] Quantum Computing Could Cut Industrial Emissions Without an AI-Sized Footprint, BCG Finds
+INFO:   [Fri, 02 Oc] The Conversation: 100 Years Ago, Schrödinger’s Equation Shed Light on Quantum Physics – Scientists Use it Today to Fine‑Tune Chemical Reactions
+INFO: 
+--- Recent arxiv papers ---
+INFO:   [2026-10-02] Low-Overhead Quantum Error Correction with Boundary-Connected Planar Modules
+INFO:   [2026-10-02] Quantum simulation of field-tunable spin spectroscopy of the quantum magnet Cs2CoCl4 on a trapped-ion quantum computer
+INFO:   [2026-10-02] BARC codes: general polynomial framework for coherent-state superposition codes
+INFO:   [2026-10-02] Lifting Multiplicity in Randomized Benchmarking
+INFO:   [2026-10-02] What Must a Quantum-Memory Decoder Know About Temporally Correlated Noise?
+INFO:   [2026-10-02] Breaking the chain: geometry-native state preparation with ASPIRE
+INFO:   [2026-10-02] Optimizing quantum error correction through error attribution
+INFO:   [2026-10-02] Beyond Pure Dephasing: Quantum Error Correction in Single Molecules Requires Multiple Spins
+INFO:   [2026-10-02] Quantum Error-Corrected Memories Keep Proper Time
+INFO:   [2026-10-02] SMP: A General Hyperedge-Based Framework for Circuit-Level Quantum Error Correction
 INFO: 
 Update log saved to /home/runner/work/quantum_hardware_systems/quantum_hardware_systems/data/update_log.json
-INFO: hardware_data.json last_updated set to 2026-09-28
+INFO: hardware_data.json last_updated set to 2026-10-05
 INFO: 
 README.md regenerated
