@@ -49,30 +49,30 @@ INFO:
 NOTE: These are heuristic detections. Review before applying. Update data/hardware_data.json manually or via PR review.
 INFO: 
 --- Recent quantum hardware news (for manual review) ---
-INFO:   [Mon, 05 Oc] QNu Labs, BISAG-N and IIT Gandhinagar Demonstrate 5 km-Scale Free-Space QKD Link
-INFO:   [Mon, 05 Oc] Three-Dimensional Light Fields Could Help to Control Electrons
-INFO:   [Sat, 03 Oc] IBM Expands AI and Quantum Research With IIT Bombay and IISc
-INFO:   [Sat, 03 Oc] Helmut Katzgraber (55North): Why materials simulation beats optimization for near-term quantum
-INFO:   [Fri, 02 Oc] Quantum in Business Conference Highlights Commercial Quantum Applications
-INFO:   [Fri, 02 Oc] QEst Hack Invites Participants to Test Quantum Algorithms on Real Business Problems
-INFO:   [Fri, 02 Oc] New Method Generates Photons That Are Virtually Indistinguishable
-INFO:   [Fri, 02 Oc] SQC and Schneider Electric Advance Quantum-Enhanced Energy Forecasting
-INFO:   [Fri, 02 Oc] Quantum Computing Could Cut Industrial Emissions Without an AI-Sized Footprint, BCG Finds
-INFO:   [Fri, 02 Oc] The Conversation: 100 Years Ago, Schrödinger’s Equation Shed Light on Quantum Physics – Scientists Use it Today to Fine‑Tune Chemical Reactions
+INFO:   [Mon, 12 Oc] Quantum Meet Quantum: Hybrid Quantum Computer Lets Scientists Peak in on Foundational Quantum Effect
+INFO:   [Sat, 10 Oc] Corey O&#8217;Meara (E.ON): Finding Real Quantum Advantage in Grid Optimization
+INFO:   [Fri, 09 Oc] Tuning a quantum computer: what a violin teaches us about qubit calibration
+INFO:   [Fri, 09 Oc] Guest Post: Quantum Computing&#8217;s Transistor Moment
+INFO:   [Fri, 09 Oc] IonQ Demonstrates 1,000 Entanglement Events per Second in Quantum Interconnect
+INFO:   [Fri, 09 Oc] Quantum X Labs Seeks Patent for Structured-Beam Atom Cooling System
+INFO:   [Fri, 09 Oc] BTQ and MoonPay Korea Partner on Post-Quantum Stablecoin Security
+INFO:   [Fri, 09 Oc] izmo Microsystems and IIT Madras Advance ₹99.94 Crore Silicon Photonics Program
+INFO:   [Fri, 09 Oc] Chattanooga Quantum Collaborative Graduates First Quantum Ready Cohort
+INFO:   [Fri, 09 Oc] Quobly and SiPearl Partner to Explore European CPU-QPU Integration For Sovereign Quantum Computing
 INFO: 
 --- Recent arxiv papers ---
-INFO:   [2026-10-02] Low-Overhead Quantum Error Correction with Boundary-Connected Planar Modules
-INFO:   [2026-10-02] Quantum simulation of field-tunable spin spectroscopy of the quantum magnet Cs2CoCl4 on a trapped-ion quantum computer
-INFO:   [2026-10-02] BARC codes: general polynomial framework for coherent-state superposition codes
-INFO:   [2026-10-02] Lifting Multiplicity in Randomized Benchmarking
-INFO:   [2026-10-02] What Must a Quantum-Memory Decoder Know About Temporally Correlated Noise?
-INFO:   [2026-10-02] Breaking the chain: geometry-native state preparation with ASPIRE
-INFO:   [2026-10-02] Optimizing quantum error correction through error attribution
-INFO:   [2026-10-02] Beyond Pure Dephasing: Quantum Error Correction in Single Molecules Requires Multiple Spins
-INFO:   [2026-10-02] Quantum Error-Corrected Memories Keep Proper Time
-INFO:   [2026-10-02] SMP: A General Hyperedge-Based Framework for Circuit-Level Quantum Error Correction
+INFO:   [2026-10-09] An entangling Hubbard quasiparticle collider on a digital quantum processor
+INFO:   [2026-10-09] Enhanced analogue quantum computation with a logically-encoded XX gadget
+INFO:   [2026-10-09] Decoder- and Noise-Aware Optimization Framework for Clifford-Deformed Quantum Error-Correcting Codes
+INFO:   [2026-10-09] Modelling Josephson Junctions with Boundary Conditions: Towards High-Fidelity Models for Superconducting Qubits
+INFO:   [2026-10-08] Error correction and quantum information spreading on sparse random graphs
+INFO:   [2026-10-08] TLS loss in superconducting resonators on epitaxial hBN thin films
+INFO:   [2026-10-08] Local polarization control of optical tweezer arrays
+INFO:   [2026-10-08] A quasiparticle-protected superconducting qubit
+INFO:   [2026-10-08] Beyond QAOA: A Review of AI and Quantum Computing for Adaptive Combinatorial Optimization
+INFO:   [2026-10-08] Error-Corrected Memory and Logic on a Heavy-Hex Superconducting-Qubit Processor
 INFO: 
 Update log saved to /home/runner/work/quantum_hardware_systems/quantum_hardware_systems/data/update_log.json
-INFO: hardware_data.json last_updated set to 2026-10-05
+INFO: hardware_data.json last_updated set to 2026-10-12
 INFO: 
 README.md regenerated
