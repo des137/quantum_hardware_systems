@@ -19,12 +19,12 @@ INFO: Fetching Origin (https://originqc.com.cn/en/)
 INFO: Fetching AQT (https://www.aqt.eu/)
 INFO: Fetching Quandela (https://www.quandela.com/)
 INFO: Fetching EleQtron (https://eleqtron.com/en/)
+WARNING: Failed to fetch https://eleqtron.com/en/: HTTP Error 404: Not Found
 INFO: Fetching ORCA (https://orcacomputing.com/)
 INFO: Fetching QuiX (https://www.quixquantum.com/)
 INFO: Fetching SQC (https://www.sqc.com.au/)
 INFO: Fetching Photonic (https://photonic.com/)
 INFO: Fetching Quantum Motion (https://quantummotion.com/)
-WARNING: Failed to fetch https://quantummotion.com/: HTTP Error 403: Forbidden
 INFO: Fetching Q-Brilliance (https://qbrilliance.com/)
 INFO: Fetching planqc (https://planqc.eu/)
 INFO: Fetching SpinQ (https://www.spinquanta.com/)
@@ -32,10 +32,10 @@ INFO: Fetching Oxford Ionics (https://www.oxionics.com/)
 INFO: Fetched 24 company pages
 INFO: 
 --- Wikipedia ---
-INFO: Wikipedia text length: 45102 chars
+INFO: Wikipedia text length: 45122 chars
 INFO: 
 --- News feeds ---
-INFO: Fetched 10 news articles
+INFO: Fetched 20 news articles
 INFO: 
 --- ArXiv ---
 INFO: Fetched 30 arxiv papers
@@ -49,30 +49,35 @@ INFO:
 NOTE: These are heuristic detections. Review before applying. Update data/hardware_data.json manually or via PR review.
 INFO: 
 --- Recent quantum hardware news (for manual review) ---
-INFO:   [Mon, 12 Oc] Quantum Meet Quantum: Hybrid Quantum Computer Lets Scientists Peak in on Foundational Quantum Effect
-INFO:   [Sat, 10 Oc] Corey O&#8217;Meara (E.ON): Finding Real Quantum Advantage in Grid Optimization
-INFO:   [Fri, 09 Oc] Tuning a quantum computer: what a violin teaches us about qubit calibration
-INFO:   [Fri, 09 Oc] Guest Post: Quantum Computing&#8217;s Transistor Moment
-INFO:   [Fri, 09 Oc] IonQ Demonstrates 1,000 Entanglement Events per Second in Quantum Interconnect
-INFO:   [Fri, 09 Oc] Quantum X Labs Seeks Patent for Structured-Beam Atom Cooling System
-INFO:   [Fri, 09 Oc] BTQ and MoonPay Korea Partner on Post-Quantum Stablecoin Security
-INFO:   [Fri, 09 Oc] izmo Microsystems and IIT Madras Advance ₹99.94 Crore Silicon Photonics Program
-INFO:   [Fri, 09 Oc] Chattanooga Quantum Collaborative Graduates First Quantum Ready Cohort
-INFO:   [Fri, 09 Oc] Quobly and SiPearl Partner to Explore European CPU-QPU Integration For Sovereign Quantum Computing
+INFO:   [Sat, 31 Oc] Julien Camirand Lemire (Nord Quantique): One Cavity, One Error-Corrected Qubit
+INFO:   [Fri, 30 Oc] Quantum Industry Coalition Highlights Funding Priorities For The National Quantum Initiative Reauthorization Act
+INFO:   [Fri, 30 Oc] Infleqtion Tests Optical Atomic Clock During US Navy Exercise
+INFO:   [Fri, 30 Oc] Netpoleon India Partners With QNu Labs on Quantum-Safe Security
+INFO:   [Fri, 30 Oc] SUNY Chancellor Highlights Quantum and Energy Research at Stony Brook
+INFO:   [Fri, 30 Oc] Speakers Point to Risk Appetite And Capital as UK Deep-Tech Bottlenecks at City Quantum &#038; AI Summit
+INFO:   [Fri, 30 Oc] France National Quantum Update: October 2026
+INFO:   [Fri, 30 Oc] Foxconn Aims to Become World’s Largest Quantum Computer Manufacturer
+INFO:   [Fri, 30 Oc] Wolfspeed Introduces Optical-Grade Silicon Carbide for Augmented Reality and Quantum Computing
+INFO:   [Fri, 30 Oc] MBHB Launches Quantum and Semiconductor IP Practice
+INFO:   [Sat, 31 Oc] University of Stuttgart Deploys Quantum Dot QKD Link Using Frequency Conversion Over Campus Fiber
+INFO:   [Sat, 31 Oc] Chalmers University Demonstrates Hardware-Level Microwave Crosstalk Suppression via Parasitic Capacitance Engineering
+INFO:   [Sat, 31 Oc] Los Alamos and QC Ware Model Correlated Iron Oxides Using Sample-Based Quantum Diagonalization on IBM Hardware
+INFO:   [Sat, 31 Oc] IBM Launches Unified Quantum Safe Software Suite to Automate Enterprise PQC Migration
+INFO:   [Sat, 31 Oc] Sandia and Quantinuum Introduce Logical Gate Set Tomography to Map Fault-Tolerant Qubit Noise
 INFO: 
 --- Recent arxiv papers ---
-INFO:   [2026-10-09] An entangling Hubbard quasiparticle collider on a digital quantum processor
-INFO:   [2026-10-09] Enhanced analogue quantum computation with a logically-encoded XX gadget
-INFO:   [2026-10-09] Decoder- and Noise-Aware Optimization Framework for Clifford-Deformed Quantum Error-Correcting Codes
-INFO:   [2026-10-09] Modelling Josephson Junctions with Boundary Conditions: Towards High-Fidelity Models for Superconducting Qubits
-INFO:   [2026-10-08] Error correction and quantum information spreading on sparse random graphs
-INFO:   [2026-10-08] TLS loss in superconducting resonators on epitaxial hBN thin films
-INFO:   [2026-10-08] Local polarization control of optical tweezer arrays
-INFO:   [2026-10-08] A quasiparticle-protected superconducting qubit
-INFO:   [2026-10-08] Beyond QAOA: A Review of AI and Quantum Computing for Adaptive Combinatorial Optimization
-INFO:   [2026-10-08] Error-Corrected Memory and Logic on a Heavy-Hex Superconducting-Qubit Processor
+INFO:   [2026-10-30] Topologically Protected Edge States in a Single Flux Qubit
+INFO:   [2026-10-30] Engineered Learning Problems on Noisy Quantum Processors
+INFO:   [2026-10-30] FaultScope: A software package for fast error attribution in quantum error correction
+INFO:   [2026-10-30] Testing hardware quantum machine learning claims with a null circuit: fill prediction on Binance futures with 129 qubits of an IBM Heron processor
+INFO:   [2026-10-30] Researcher-in-the-Loop Evolutionary Discovery of Entanglement-Assisted Quantum Code Families
+INFO:   [2026-10-29] Preparation of a Laughlin-like fractional Chern insulator on a superconducting quantum processor
+INFO:   [2026-10-29] Entanglement diagnostics of stochastic-resetting steady states: theory and measurement on superconducting qubits
+INFO:   [2026-10-29] Fast and accurate neural triage decoding of ultra-high-rate quantum LDPC codes
+INFO:   [2026-10-29] Subsystem Spacetime Code
+INFO:   [2026-10-29] Force Sensing in a Recoverable Bosonic Quantum Memory
 INFO: 
 Update log saved to /home/runner/work/quantum_hardware_systems/quantum_hardware_systems/data/update_log.json
-INFO: hardware_data.json last_updated set to 2026-10-12
+INFO: hardware_data.json last_updated set to 2026-11-02
 INFO: 
 README.md regenerated
