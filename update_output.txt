@@ -19,12 +19,12 @@ INFO: Fetching Origin (https://originqc.com.cn/en/)
 INFO: Fetching AQT (https://www.aqt.eu/)
 INFO: Fetching Quandela (https://www.quandela.com/)
 INFO: Fetching EleQtron (https://eleqtron.com/en/)
-WARNING: Failed to fetch https://eleqtron.com/en/: HTTP Error 404: Not Found
 INFO: Fetching ORCA (https://orcacomputing.com/)
 INFO: Fetching QuiX (https://www.quixquantum.com/)
 INFO: Fetching SQC (https://www.sqc.com.au/)
 INFO: Fetching Photonic (https://photonic.com/)
 INFO: Fetching Quantum Motion (https://quantummotion.com/)
+WARNING: Failed to fetch https://quantummotion.com/: Remote end closed connection without response
 INFO: Fetching Q-Brilliance (https://qbrilliance.com/)
 INFO: Fetching planqc (https://planqc.eu/)
 INFO: Fetching SpinQ (https://www.spinquanta.com/)
@@ -49,35 +49,35 @@ INFO:
 NOTE: These are heuristic detections. Review before applying. Update data/hardware_data.json manually or via PR review.
 INFO: 
 --- Recent quantum hardware news (for manual review) ---
-INFO:   [Sat, 31 Oc] Julien Camirand Lemire (Nord Quantique): One Cavity, One Error-Corrected Qubit
-INFO:   [Fri, 30 Oc] Quantum Industry Coalition Highlights Funding Priorities For The National Quantum Initiative Reauthorization Act
-INFO:   [Fri, 30 Oc] Infleqtion Tests Optical Atomic Clock During US Navy Exercise
-INFO:   [Fri, 30 Oc] Netpoleon India Partners With QNu Labs on Quantum-Safe Security
-INFO:   [Fri, 30 Oc] SUNY Chancellor Highlights Quantum and Energy Research at Stony Brook
-INFO:   [Fri, 30 Oc] Speakers Point to Risk Appetite And Capital as UK Deep-Tech Bottlenecks at City Quantum &#038; AI Summit
-INFO:   [Fri, 30 Oc] France National Quantum Update: October 2026
-INFO:   [Fri, 30 Oc] Foxconn Aims to Become World’s Largest Quantum Computer Manufacturer
-INFO:   [Fri, 30 Oc] Wolfspeed Introduces Optical-Grade Silicon Carbide for Augmented Reality and Quantum Computing
-INFO:   [Fri, 30 Oc] MBHB Launches Quantum and Semiconductor IP Practice
-INFO:   [Sat, 31 Oc] University of Stuttgart Deploys Quantum Dot QKD Link Using Frequency Conversion Over Campus Fiber
-INFO:   [Sat, 31 Oc] Chalmers University Demonstrates Hardware-Level Microwave Crosstalk Suppression via Parasitic Capacitance Engineering
-INFO:   [Sat, 31 Oc] Los Alamos and QC Ware Model Correlated Iron Oxides Using Sample-Based Quantum Diagonalization on IBM Hardware
-INFO:   [Sat, 31 Oc] IBM Launches Unified Quantum Safe Software Suite to Automate Enterprise PQC Migration
-INFO:   [Sat, 31 Oc] Sandia and Quantinuum Introduce Logical Gate Set Tomography to Map Fault-Tolerant Qubit Noise
+INFO:   [Mon, 09 No] PQSecure Technologies Partners with Carahsoft to Distribute PQC Solutions
+INFO:   [Mon, 09 No] Q.ANT and IONOS Launch Pilot for Photonic Computing
+INFO:   [Mon, 09 No] UKRI: How the UK built a quantum technology nation
+INFO:   [Mon, 09 No] hzero Emerges From Stealth to Coordinate Quantum and Classical Computing
+INFO:   [Mon, 09 No] Quantum Biology Review Suggests Protein Networks And Quantum Sensing Open New Paths For Biology
+INFO:   [Mon, 09 No] EV Group Helps Accelerate Qubit Scaling for Quantum Computing Through Advanced Packaging Expertise
+INFO:   [Mon, 09 No] Quanome Agrees to Invest in AI Drug Discovery Company QAI Labs
+INFO:   [Mon, 09 No] Horizon Quantum Integrates OQC&#8217;s 32-Qubit Processor with Triple Alpha
+INFO:   [Mon, 09 No] The Quantum Utility Goes Live: SQS Nodes Now Operational in Albuquerque, New Mexico
+INFO:   [Mon, 09 No] Malaysia Considers Faster Transition to Quantum-Resistant Security
+INFO:   [Sun, 08 No] Riverlane Demonstrates Data-Driven DEM Augmentation to Reduce Surface-Code Logical Errors
+INFO:   [Sun, 08 No] Who’s News: Strategic Appointments at Quantum eMotion, Qtonic Quantum, Chicago Quantum Exchange, and Equal1
+INFO:   [Sat, 07 No] CO.LAB Selects Four Startups for Inaugural CO.LAB Q Commercialization Studio in Chattanooga
+INFO:   [Sat, 07 No] Scottish Widows and Aberdeen Allocate UK Workplace Pension Capital to Oxford Quantum Circuits and Quantum Motion via LTAF
+INFO:   [Sat, 07 No] UK Financial Conduct Authority Launches Quantum Experimentation Group to Evaluate Financial Crime Detection
 INFO: 
 --- Recent arxiv papers ---
-INFO:   [2026-10-30] Topologically Protected Edge States in a Single Flux Qubit
-INFO:   [2026-10-30] Engineered Learning Problems on Noisy Quantum Processors
-INFO:   [2026-10-30] FaultScope: A software package for fast error attribution in quantum error correction
-INFO:   [2026-10-30] Testing hardware quantum machine learning claims with a null circuit: fill prediction on Binance futures with 129 qubits of an IBM Heron processor
-INFO:   [2026-10-30] Researcher-in-the-Loop Evolutionary Discovery of Entanglement-Assisted Quantum Code Families
-INFO:   [2026-10-29] Preparation of a Laughlin-like fractional Chern insulator on a superconducting quantum processor
-INFO:   [2026-10-29] Entanglement diagnostics of stochastic-resetting steady states: theory and measurement on superconducting qubits
-INFO:   [2026-10-29] Fast and accurate neural triage decoding of ultra-high-rate quantum LDPC codes
-INFO:   [2026-10-29] Subsystem Spacetime Code
-INFO:   [2026-10-29] Force Sensing in a Recoverable Bosonic Quantum Memory
+INFO:   [2026-11-06] Trajectory-Dependent Decoherence and Leakage During Shuttling of Multi-Spin Qubits
+INFO:   [2026-11-06] Parametric $\mathrm{CZ}$ Gates in a Tunable Tripod Architecture with Fixed-Frequency Superconducting Qubits
+INFO:   [2026-11-05] Certifying quantum code and circuit distances at scale
+INFO:   [2026-11-05] Machine learning quantum data to accelerate quantum Monte Carlo
+INFO:   [2026-11-05] Crosstalk-Induced Row Hammer Attacks on Quantum Random Access Codes
+INFO:   [2026-11-05] Certifying the Rydberg-exposure limit of a globally driven controlled-Z gate
+INFO:   [2026-11-04] FNO-Based Inverse Co-Design of Semiconducting Quantum-Dot Devices
+INFO:   [2026-11-04] GFlowQEC: Generative Flow Networks that Learn to Sample Quantum LDPC Codes
+INFO:   [2026-11-04] Cryogenic suppression of correlated loss in Rydberg atom arrays
+INFO:   [2026-11-04] Discovering correlated error mechanisms: data-driven augmentation of detector error models improving decoding
 INFO: 
 Update log saved to /home/runner/work/quantum_hardware_systems/quantum_hardware_systems/data/update_log.json
-INFO: hardware_data.json last_updated set to 2026-11-02
+INFO: hardware_data.json last_updated set to 2026-11-09
 INFO: 
 README.md regenerated
