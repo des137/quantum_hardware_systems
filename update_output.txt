@@ -19,12 +19,12 @@ INFO: Fetching Origin (https://originqc.com.cn/en/)
 INFO: Fetching AQT (https://www.aqt.eu/)
 INFO: Fetching Quandela (https://www.quandela.com/)
 INFO: Fetching EleQtron (https://eleqtron.com/en/)
-WARNING: Failed to fetch https://eleqtron.com/en/: HTTP Error 404: Not Found
 INFO: Fetching ORCA (https://orcacomputing.com/)
 INFO: Fetching QuiX (https://www.quixquantum.com/)
 INFO: Fetching SQC (https://www.sqc.com.au/)
 INFO: Fetching Photonic (https://photonic.com/)
 INFO: Fetching Quantum Motion (https://quantummotion.com/)
+WARNING: Failed to fetch https://quantummotion.com/: Remote end closed connection without response
 INFO: Fetching Q-Brilliance (https://qbrilliance.com/)
 INFO: Fetching planqc (https://planqc.eu/)
 INFO: Fetching SpinQ (https://www.spinquanta.com/)
@@ -49,35 +49,35 @@ INFO:
 NOTE: These are heuristic detections. Review before applying. Update data/hardware_data.json manually or via PR review.
 INFO: 
 --- Recent quantum hardware news (for manual review) ---
-INFO:   [Sat, 31 Oc] Julien Camirand Lemire (Nord Quantique): One Cavity, One Error-Corrected Qubit
-INFO:   [Fri, 30 Oc] Quantum Industry Coalition Highlights Funding Priorities For The National Quantum Initiative Reauthorization Act
-INFO:   [Fri, 30 Oc] Infleqtion Tests Optical Atomic Clock During US Navy Exercise
-INFO:   [Fri, 30 Oc] Netpoleon India Partners With QNu Labs on Quantum-Safe Security
-INFO:   [Fri, 30 Oc] SUNY Chancellor Highlights Quantum and Energy Research at Stony Brook
-INFO:   [Fri, 30 Oc] Speakers Point to Risk Appetite And Capital as UK Deep-Tech Bottlenecks at City Quantum &#038; AI Summit
-INFO:   [Fri, 30 Oc] France National Quantum Update: October 2026
-INFO:   [Fri, 30 Oc] Foxconn Aims to Become World’s Largest Quantum Computer Manufacturer
-INFO:   [Fri, 30 Oc] Wolfspeed Introduces Optical-Grade Silicon Carbide for Augmented Reality and Quantum Computing
-INFO:   [Fri, 30 Oc] MBHB Launches Quantum and Semiconductor IP Practice
-INFO:   [Sat, 31 Oc] University of Stuttgart Deploys Quantum Dot QKD Link Using Frequency Conversion Over Campus Fiber
-INFO:   [Sat, 31 Oc] Chalmers University Demonstrates Hardware-Level Microwave Crosstalk Suppression via Parasitic Capacitance Engineering
-INFO:   [Sat, 31 Oc] Los Alamos and QC Ware Model Correlated Iron Oxides Using Sample-Based Quantum Diagonalization on IBM Hardware
-INFO:   [Sat, 31 Oc] IBM Launches Unified Quantum Safe Software Suite to Automate Enterprise PQC Migration
-INFO:   [Sat, 31 Oc] Sandia and Quantinuum Introduce Logical Gate Set Tomography to Map Fault-Tolerant Qubit Noise
+INFO:   [Mon, 16 No] IQM Supports NVIDIA’s Work to Make Quantum Computers Schedulable in Slurm
+INFO:   [Mon, 16 No] IBM, NVIDIA and Fermilab Plan Modular Quantum Computing Platform
+INFO:   [Mon, 16 No] Altera, OQC and NVIDIA Link Quantum Processor to GPU Computing
+INFO:   [Mon, 16 No] JPMorgan Chase Tops The 2026 Finance Quantum Index; HSBC, Wells Fargo Share Second Place
+INFO:   [Mon, 16 No] Liquid C2 and Graphiant Partner on Quantum-Secure Networking in Africa
+INFO:   [Mon, 16 No] Classiq and Ventum Consulting Partner on Enterprise Quantum Computing in Germany
+INFO:   [Mon, 16 No] 15 Finalists Named in Global Quantum + AI Challenge
+INFO:   [Mon, 16 No] Qatar&#8217;s MCIT Partners with SignQuantum on Post-Quantum Cybersecurity
+INFO:   [Mon, 16 No] JIJ and Mitsubishi Electric Selected for JHPC-quantum Program to Evaluate Hybrid Computing
+INFO:   [Mon, 16 No] IonQ Appoints Gary Merrill as CFO and Thomas Austin as Chief Accounting Officer
+INFO:   [Mon, 16 No] Qatar Ministry of Communications and Information Technology Signs Post-Quantum Readiness Agreement with SignQuantum and QANplatform
+INFO:   [Mon, 16 No] Cross-Platform Cloud Benchmark Reveals Wide Gap Between Physical Qubit Counts and Entangled GHZ State Sizes
+INFO:   [Sat, 14 No] Making Quantum SDKs More Accessible: Lessons from Contributing to Qiskit
+INFO:   [Sat, 14 No] Who’s News: Strategic Appointments at SemiQon, OrangeQS, IonQ, Haiqu, and Jij
+INFO:   [Sat, 14 No] QFactorial and Monash University Secure A$1.12 Million ($$758.6K USD) Australian Government Grant for Quantum Logistics Optimization
 INFO: 
 --- Recent arxiv papers ---
-INFO:   [2026-10-30] Topologically Protected Edge States in a Single Flux Qubit
-INFO:   [2026-10-30] Engineered Learning Problems on Noisy Quantum Processors
-INFO:   [2026-10-30] FaultScope: A software package for fast error attribution in quantum error correction
-INFO:   [2026-10-30] Testing hardware quantum machine learning claims with a null circuit: fill prediction on Binance futures with 129 qubits of an IBM Heron processor
-INFO:   [2026-10-30] Researcher-in-the-Loop Evolutionary Discovery of Entanglement-Assisted Quantum Code Families
-INFO:   [2026-10-29] Preparation of a Laughlin-like fractional Chern insulator on a superconducting quantum processor
-INFO:   [2026-10-29] Entanglement diagnostics of stochastic-resetting steady states: theory and measurement on superconducting qubits
-INFO:   [2026-10-29] Fast and accurate neural triage decoding of ultra-high-rate quantum LDPC codes
-INFO:   [2026-10-29] Subsystem Spacetime Code
-INFO:   [2026-10-29] Force Sensing in a Recoverable Bosonic Quantum Memory
+INFO:   [2026-11-13] Agentic AI for Discovering Fault-Tolerant Quantum Circuits
+INFO:   [2026-11-13] Tessa: Encoding Classical Data Across an Entire Quantum Processor
+INFO:   [2026-11-13] Entropic quantum error correction for independent and correlated amplitude damping errors
+INFO:   [2026-11-13] Spin-adapted sample-based quantum diagonalization with randomized time evolution
+INFO:   [2026-11-13] Benchmarking superconducting quantum processors with percolating entanglement quality
+INFO:   [2026-11-13] Anyon Proliferation at Self-Triality: From a Lattice Model to Adjoint QCD$_3$
+INFO:   [2026-11-12] DRAG-Inspired Single Flux Quantum Control of Superconducting Qubits
+INFO:   [2026-11-12] Non-ergodic Area Scaling of Andreev Transport in Al/AlO$_x$/Al Tunnel Junctions
+INFO:   [2026-11-12] Observation of Genuine Multi-Time Quantum Memory
+INFO:   [2026-11-12] Reduced filtering using classical control hierarchy with linear optimality for continuous quantum error correction
 INFO: 
 Update log saved to /home/runner/work/quantum_hardware_systems/quantum_hardware_systems/data/update_log.json
-INFO: hardware_data.json last_updated set to 2026-11-02
+INFO: hardware_data.json last_updated set to 2026-11-16
 INFO: 
 README.md regenerated
