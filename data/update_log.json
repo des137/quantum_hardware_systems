@@ -448,5 +448,37 @@
         "source": "Quandela"
       }
     ]
+  },
+  {
+    "timestamp": "2026-11-23T19:55:29.918088+00:00",
+    "sources_checked": {
+      "company_pages": 24,
+      "wikipedia": true,
+      "news_articles": 20,
+      "arxiv_papers": 30
+    },
+    "potential_changes": [
+      {
+        "company": "QuEra",
+        "field": "qubits",
+        "current": "3000+",
+        "detected": "10000",
+        "source": "QuEra"
+      },
+      {
+        "company": "Photonic",
+        "field": "qubits",
+        "current": "Few",
+        "detected": "12",
+        "source": "Quandela"
+      },
+      {
+        "company": "Photonic",
+        "field": "qubits",
+        "current": "Few",
+        "detected": "12",
+        "source": "Quandela"
+      }
+    ]
   }
 ]

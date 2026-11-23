@@ -32,7 +32,7 @@ INFO: Fetching Oxford Ionics (https://www.oxionics.com/)
 INFO: Fetched 24 company pages
 INFO: 
 --- Wikipedia ---
-INFO: Wikipedia text length: 45122 chars
+INFO: Wikipedia text length: 45745 chars
 INFO: 
 --- News feeds ---
 INFO: Fetched 20 news articles
@@ -43,41 +43,42 @@ INFO:
 --- Detecting changes ---
 INFO: 
 Potential updates detected:
+INFO:   QuEra: qubits 3000+ -> 10000 (source: QuEra)
 INFO:   Photonic: qubits Few -> 12 (source: Quandela)
 INFO:   Photonic: qubits Few -> 12 (source: Quandela)
 INFO: 
 NOTE: These are heuristic detections. Review before applying. Update data/hardware_data.json manually or via PR review.
 INFO: 
 --- Recent quantum hardware news (for manual review) ---
-INFO:   [Mon, 16 No] IQM Supports NVIDIA’s Work to Make Quantum Computers Schedulable in Slurm
-INFO:   [Mon, 16 No] IBM, NVIDIA and Fermilab Plan Modular Quantum Computing Platform
-INFO:   [Mon, 16 No] Altera, OQC and NVIDIA Link Quantum Processor to GPU Computing
-INFO:   [Mon, 16 No] JPMorgan Chase Tops The 2026 Finance Quantum Index; HSBC, Wells Fargo Share Second Place
-INFO:   [Mon, 16 No] Liquid C2 and Graphiant Partner on Quantum-Secure Networking in Africa
-INFO:   [Mon, 16 No] Classiq and Ventum Consulting Partner on Enterprise Quantum Computing in Germany
-INFO:   [Mon, 16 No] 15 Finalists Named in Global Quantum + AI Challenge
-INFO:   [Mon, 16 No] Qatar&#8217;s MCIT Partners with SignQuantum on Post-Quantum Cybersecurity
-INFO:   [Mon, 16 No] JIJ and Mitsubishi Electric Selected for JHPC-quantum Program to Evaluate Hybrid Computing
-INFO:   [Mon, 16 No] IonQ Appoints Gary Merrill as CFO and Thomas Austin as Chief Accounting Officer
-INFO:   [Mon, 16 No] Qatar Ministry of Communications and Information Technology Signs Post-Quantum Readiness Agreement with SignQuantum and QANplatform
-INFO:   [Mon, 16 No] Cross-Platform Cloud Benchmark Reveals Wide Gap Between Physical Qubit Counts and Entangled GHZ State Sizes
-INFO:   [Sat, 14 No] Making Quantum SDKs More Accessible: Lessons from Contributing to Qiskit
-INFO:   [Sat, 14 No] Who’s News: Strategic Appointments at SemiQon, OrangeQS, IonQ, Haiqu, and Jij
-INFO:   [Sat, 14 No] QFactorial and Monash University Secure A$1.12 Million ($$758.6K USD) Australian Government Grant for Quantum Logistics Optimization
+INFO:   [Mon, 23 No] QuEra Joins $12 Million DOE Project on AI-Designed Quantum Error Correction
+INFO:   [Mon, 23 No] UNM Hosts First Quantum Industry Day in New Mexico
+INFO:   [Mon, 23 No] CyberRidge Selected for The Lucrative EIC Award For Innovation In Quantum Security
+INFO:   [Mon, 23 No] Xairos Appoints Armen Minasian to Board of Advisors
+INFO:   [Mon, 23 No] CQC, CO.LAB and Outset Ventures Partner to Accelerate Quantum Commercialization
+INFO:   [Mon, 23 No] Q.security Launches With $11.5 Million From Castle Island Ventures, New York Life Ventures and Coinbase Ventures
+INFO:   [Mon, 23 No] planqc Expands Into the UK With New Cambridge Site
+INFO:   [Mon, 23 No] Microsoft Builds Israeli Team to Help Companies Prepare for Quantum Threats
+INFO:   [Mon, 23 No] Rotonium Unveils a Quantum Computer That Operates at Room Temperature
+INFO:   [Mon, 23 No] Aalborg University Buys Quantum Computer to Train Engineers
+INFO:   [Sat, 21 No] Sorbonne Université and Qubit Pharmaceuticals Introduce VULCAN Hybrid Framework for Scalable Quantum Chemistry
+INFO:   [Sat, 21 No] Qubit Pharmaceuticals and Sorbonne Université Develop Polynomial-Time Lie Algebra Generator Pool Construction for Quantum Chemistry
+INFO:   [Sat, 21 No] Qubit Pharmaceuticals, Sorbonne Université, and Q-CTRL Demonstrate 3D Protein Hydration-Site Prediction on IBM Heron Processors
+INFO:   [Sat, 21 No] QuEra, Harvard, and UMD Researchers Develop Polynomial-Time Classical Benchmarking for Non-Clifford Fault-Tolerant Circuits
+INFO:   [Sat, 21 No] Harvard, QuEra, and Caltech Design Single-Shot Magic State Factories for Quantum LDPC Codes with 10–40x Lower Overhead
 INFO: 
 --- Recent arxiv papers ---
-INFO:   [2026-11-13] Agentic AI for Discovering Fault-Tolerant Quantum Circuits
-INFO:   [2026-11-13] Tessa: Encoding Classical Data Across an Entire Quantum Processor
-INFO:   [2026-11-13] Entropic quantum error correction for independent and correlated amplitude damping errors
-INFO:   [2026-11-13] Spin-adapted sample-based quantum diagonalization with randomized time evolution
-INFO:   [2026-11-13] Benchmarking superconducting quantum processors with percolating entanglement quality
-INFO:   [2026-11-13] Anyon Proliferation at Self-Triality: From a Lattice Model to Adjoint QCD$_3$
-INFO:   [2026-11-12] DRAG-Inspired Single Flux Quantum Control of Superconducting Qubits
-INFO:   [2026-11-12] Non-ergodic Area Scaling of Andreev Transport in Al/AlO$_x$/Al Tunnel Junctions
-INFO:   [2026-11-12] Observation of Genuine Multi-Time Quantum Memory
-INFO:   [2026-11-12] Reduced filtering using classical control hierarchy with linear optimality for continuous quantum error correction
+INFO:   [2026-11-19] When the Noise Gets Noisy: Quantum Error Correction with Disordered Noise and Misinformed Decoding
+INFO:   [2026-11-19] Optimal Error corrected Hamiltonian estimation with nuisance parameters
+INFO:   [2026-11-19] Scaling classical hardware for accurate real-time quantum error correction
+INFO:   [2026-11-19] Non-Binary Detector Error Models
+INFO:   [2026-11-19] Quantum Zeno Effect with a Superposed Measurement Schedule in Relational Time
+INFO:   [2026-11-19] The Price of an Explanation: What Demanding Verifiable Artifacts Costs, and What It Buys Back
+INFO:   [2026-11-19] Evolving Decoding Algorithms for Quantum Error Correction
+INFO:   [2026-11-19] Optimal Impure $(r,δ)$-Quantum Locally Recoverable Codes with Explicit Minimum Localities
+INFO:   [2026-11-19] Parallel transversal entangling gates for fault-tolerant trapped-ion quantum computing
+INFO:   [2026-11-19] Syndrome-based Calibration Using Gate-Error Amplification
 INFO: 
 Update log saved to /home/runner/work/quantum_hardware_systems/quantum_hardware_systems/data/update_log.json
-INFO: hardware_data.json last_updated set to 2026-11-16
+INFO: hardware_data.json last_updated set to 2026-11-23
 INFO: 
 README.md regenerated
